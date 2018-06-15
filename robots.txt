@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /public/js/
+Disallow: /public/admin/
+Disallow: /public/upload/
+Disallow: /public/unity_assets
