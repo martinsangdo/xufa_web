@@ -66,7 +66,7 @@
                             <div class="col-lg-8">
                                 <!-- User Details -->
                                 <div class="d-flex align-items-center justify-content-sm-between g-mb-5">
-                                    <h2 class="g-font-weight-300 g-mr-10">Do-Thanh Sang</h2>
+                                    <h2 class="g-font-weight-300 g-mr-10">Do-Thanh Sang (Martin)</h2>
                                     <ul class="list-inline mb-0">
                                         <li class="list-inline-item g-mx-2">
                                             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="https://www.linkedin.com/in/dtsang012/" target="_blank">
@@ -106,7 +106,7 @@
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
                                     I am carrying 10 years of experience in Software Industry.
-                                    Since last 2 years I was working in the Engma Ltd in position Project Leader. I'm currently doing contract/freelance tasks.
+                                    Since last 2 years I was working in the ENGMA Ltd in position Technical Manager. I'm currently doing contract/freelance tasks.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -118,17 +118,18 @@
                                          0 => array('value' => 90,'name' => 'PHP','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
                                          1 => array('value' => 90,'name' => 'Nodejs','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
                                         2 => array('value' => 60,'name' => 'React Native','bg_color'=>'c9ff97', 'fg_color'=>'72c02c', 'exp'=>'2 yrs'),
-                                        3 => array('value' => 70,'name' => 'Python','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
-                                        4 => array('value' => 60,'name' => 'C/C++','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'2 yrs'),
-                                        5 => array('value' => 80,'name' => 'SQL','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
-                                        6 => array('value' => 90,'name' => 'jQuery','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
-                                        7 => array('value' => 90,'name' => 'HTML/CSS','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
+                                        3 => array('value' => 70,'name' => 'Python','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'5 yrs'),
+                                        4 => array('value' => 60,'name' => 'C/C++','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
+                                        5 => array('value' => 70,'name' => 'Android Java','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'5 yrs'),
+                                        6 => array('value' => 80,'name' => 'SQL','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
+                                        7 => array('value' => 90,'name' => 'jQuery','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
+                                        8 => array('value' => 90,'name' => 'HTML/CSS','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
 
                                     );
                                     for ($i=0; $i<count($skills); $i++){
                                         ?>
                                         <!-- Counter Pie Chart -->
-                                        <div class="g-mr-20 g-mb-20 g-mb-0--xl">
+                                        <div class="g-mr-10 g-mb-20 g-mb-0--xl">
                                             <div class="js-pie g-color-lightred g-mb-5" data-circles-value="<?php echo $skills[$i]['value'];?>" data-circles-max-value="100" data-circles-bg-color="#<?php echo $skills[$i]['bg_color'];?>" data-circles-fg-color="#<?php echo $skills[$i]['fg_color'];?>" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="1000"
                                                  data-circles-scroll-animate="true" data-circles-font-size="14">
                                             </div>
@@ -152,7 +153,7 @@
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-briefcase g-pos-rel g-top-1 g-mr-5"></i> Experience
+                                <i class="icon-briefcase g-pos-rel g-top-1 g-mr-5"></i> EXPERIENCE
                             </h3>
                         </div>
                         <!-- End Panel Header -->
@@ -321,12 +322,60 @@
                     </div>
                     <!-- End Experience Timeline -->
 
-                    <!-- Education Timeline -->
-                    <div class="card border-0 rounded-0 g-mb-40">
+                    <!-- Projects Panel -->
+                    <div class="card border-0">
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> Education
+                                <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> LATEST PROJECTS
+                            </h3>
+                        </div>
+                        <!-- End Panel Header -->
+
+                        <!-- Panel Content -->
+                        <div class="card-block g-pa-0">
+                            <div class="table-responsive">
+                                <table class="table table-bordered u-table--v2">
+                                    <thead class="text-uppercase g-letter-spacing-1">
+                                    <tr>
+                                        <th class="g-font-weight-300 g-color-black">Companies</th>
+                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Project Description</th>
+                                        <th class="g-font-weight-300 g-color-black g-min-width-200">My roles</th>
+                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Time</th>
+                                    </tr>
+                                    </thead>
+
+                                    <tbody>
+                                    <tr>
+                                        <td class="align-middle text-nowrap text-center">
+                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img3.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Pixeel Ltd" alt="Image Description">
+                                        </td>
+                                        <td class="align-middle">Nulla ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl.</td>
+                                        <td class="align-middle">
+                                            <ul>
+                                                <li>aaa</li>
+                                                <li>ddd</li>
+                                            </ul>
+                                        </td>
+                                        <td class="align-middle">
+                                            <div class="js-rating g-font-size-121 g-color-primary" data-rating="4" data-spacing="3"></div>
+                                        </td>
+                                    </tr>
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- End Panel Content -->
+                    </div>
+                    <!-- End Projects Panel -->
+
+                    <!-- Education Timeline -->
+                    <div class="card border-0 rounded-0">
+                        <!-- Panel Header -->
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                            <h3 class="h6 mb-0">
+                                <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> EDUCATION
                             </h3>
                         </div>
                         <!-- End Panel Header -->
@@ -391,38 +440,80 @@
                     </div>
                     <!-- End Education Timeline -->
 
-                    <!-- User Contacts Panel -->
+                    <!-- Publications Panel -->
+                    <div class="card border-0 g-mb-40">
+                        <!-- Panel Header -->
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                            <h3 class="h6 mb-0">
+                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PUBLICATIONS
+                            </h3>
+                        </div>
+                        <!-- End Panel Header -->
+
+                        <!-- Panel Body -->
+                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-400 g-pa-0">
+                            <ul class="list-unstyled">
+                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-blue-left rounded g-pa-20 g-mb-10">
+                                    <div class="d-flex g-mt-2 g-mr-15">
+                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description">
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="d-flex justify-content-between">
+                                            <h5 class="h6 g-font-weight-600 g-color-black">Unify Template</h5>
+                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
+                                        </div>
+                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">AnhularJS</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">PHP</span>
+                                    </div>
+                                </li>
+
+                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-pink-left rounded g-pa-20 g-mb-10">
+                                    <div class="d-flex g-mt-2 g-mr-15">
+                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description">
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="d-flex justify-content-between">
+                                            <h5 class="h6 g-font-weight-600 g-color-black">UX/UI Design and Backend</h5>
+                                            <span class="small text-nowrap g-color-pink">16 min ago</span>
+                                        </div>
+                                        <p>Hac consectetur habitasse platea dictumst, adipiscing elitut leosit amet, consectetur eleifend.</p>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-color-black g-rounded-20 g-px-10">JavaScript</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">Ruby</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ASP.NET</span>
+                                    </div>
+                                </li>
+
+                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
+                                    <div class="d-flex g-mt-2 g-mr-15">
+                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img4.jpg" alt="Image Description">
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="d-flex justify-content-between">
+                                            <h5 class="h6 g-font-weight-600 g-color-black">React Native App</h5>
+                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
+                                        </div>
+                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ReactJS</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
+                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Panel Body -->
+                    </div>
+                    <!-- End Publications Panel -->
+
+                    <!-- My mobile Panel -->
                     <div class="card border-0 rounded-0 g-mb-50">
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-notebook g-pos-rel g-top-1 g-mr-5"></i> User Contacts
+                                <i class="icon-notebook g-pos-rel g-top-1 g-mr-5"></i> MY MOBILE APPS
                             </h3>
-                            <div class="dropdown g-mb-10 g-mb-0--md">
-                  <span class="d-block g-color-primary--hover g-cursor-pointer g-mr-minus-5 g-pa-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      <i class="icon-options-vertical g-pos-rel g-top-1"></i>
-                    </span>
-                                <div class="dropdown-menu dropdown-menu-right rounded-0 g-mt-10">
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-layers g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Projects
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-wallet g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Wallets
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-fire g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Reports
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-settings g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Users Setting
-                                    </a>
-
-                                    <div class="dropdown-divider"></div>
-
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-plus g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> View More
-                                    </a>
-                                </div>
-                            </div>
                         </div>
                         <!-- End Panel Header -->
 
@@ -566,310 +657,13 @@
                         </div>
                         <!-- End Panel Body -->
                     </div>
-                    <!-- End User Contacts Panel -->
-
-                    <!-- Activities Panel -->
-                    <div class="card border-0">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> Latest Projects <small>(option 3)</small>
-                            </h3>
-                            <div class="dropdown g-mb-10 g-mb-0--md">
-                  <span class="d-block g-color-primary--hover g-cursor-pointer g-mr-minus-5 g-pa-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      <i class="icon-options-vertical g-pos-rel g-top-1"></i>
-                    </span>
-                                <div class="dropdown-menu dropdown-menu-right rounded-0 g-mt-10">
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-layers g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Projects
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-wallet g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Wallets
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-fire g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Reports
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-settings g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Users Setting
-                                    </a>
-
-                                    <div class="dropdown-divider"></div>
-
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-plus g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> View More
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Content -->
-                        <div class="card-block g-pa-0">
-                            <div class="table-responsive">
-                                <table class="table table-bordered u-table--v2">
-                                    <thead class="text-uppercase g-letter-spacing-1">
-                                    <tr>
-                                        <th class="g-font-weight-300 g-color-black">Companies</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Project Description</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-130">Status</th>
-                                        <th class="g-font-weight-300 g-color-black">Rating</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Locations</th>
-                                    </tr>
-                                    </thead>
-
-                                    <tbody>
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img3.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Pixeel Ltd" alt="Image Description">
-                                        </td>
-                                        <td class="align-middle">Nulla ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl.</td>
-                                        <td class="align-middle">
-                                            <div class="js-hr-progress-bar progress rounded-0">
-                                                <div class="js-hr-progress-bar-indicator progress-bar u-progress-bar--xs" role="progressbar" style="width: 56%" aria-valuenow="56" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </td>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-font-size-121 g-color-primary" data-rating="4" data-spacing="3"></div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="d-flex">
-                                                <i class="icon-location-pin g-font-size-18 g-color-gray-dark-v5 g-pos-rel g-top-5 g-mr-7"></i>
-                                                <span>389ZA2 DeClaudine, CA, USA</span>
-                                            </div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img1.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Htmlstream" alt="Image Description">
-                                        </td>
-                                        <td class="align-middle">In consectetur adipiscing hac habitasse platea dictumst, curabitur hendrerit.</td>
-                                        <td class="align-middle">
-                                            <div class="js-hr-progress-bar progress rounded-0">
-                                                <div class="js-hr-progress-bar-indicator progress-bar u-progress-bar--xs g-bg-cyan" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-color-primary" data-rating="4.5" data-spacing="3"></div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="d-flex">
-                                                <i class="icon-location-pin g-font-size-18 g-color-gray-dark-v5 g-pos-rel g-top-5 g-mr-7"></i>
-                                                <span>738AD Lorena Spur, London, UK</span>
-                                            </div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img4.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Starbucks" alt="Image Description">
-                                        </td>
-                                        <td class="align-middle">To a general advertiser outdoor advertising is worthy of consideration..</td>
-                                        <td class="align-middle">
-                                            <div class="js-hr-progress-bar progress rounded-0">
-                                                <div class="js-hr-progress-bar-indicator progress-bar u-progress-bar--xs g-bg-purple" role="progressbar" style="width: 38%" aria-valuenow="38" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-color-primary" data-rating="2.5" data-spacing="3"></div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="d-flex">
-                                                <i class="icon-location-pin g-font-size-18 g-color-gray-dark-v5 g-pos-rel g-top-5 g-mr-7"></i>
-                                                <span>044C1 Port Dickson, BC, Canada</span>
-                                            </div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img2.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Wrapbootstrap" alt="Image Description">
-                                        </td>
-                                        <td>Create a list with all possible keywords that fit to your product, service or business..</td>
-                                        <td class="align-middle">
-                                            <div class="js-hr-progress-bar progress rounded-0">
-                                                <div class="js-hr-progress-bar-indicator progress-bar u-progress-bar--xs g-bg-lightred" role="progressbar" style="width: 86%" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-color-primary" data-rating="5" data-spacing="3"></div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="d-flex">
-                                                <i class="icon-location-pin g-font-size-18 g-color-gray-dark-v5 g-pos-rel g-top-5 g-mr-7"></i>
-                                                <span>07W2 Donell Lodge, NY, USA</span>
-                                            </div>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Pinterest" alt="Image Description">
-                                        </td>
-                                        <td class="align-middle">Ulla consectetur ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl.</td>
-                                        <td class="align-middle">
-                                            <div class="js-hr-progress-bar progress rounded-0">
-                                                <div class="js-hr-progress-bar-indicator progress-bar u-progress-bar--xs g-bg-darkpurple" role="progressbar" style="width: 62%" aria-valuenow="62" aria-valuemin="0" aria-valuemax="100"></div>
-                                            </div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-font-size-121 g-color-primary" data-rating="3.5" data-spacing="3"></div>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="d-flex">
-                                                <i class="icon-location-pin g-font-size-18 g-color-gray-dark-v5 g-pos-rel g-top-5 g-mr-7"></i>
-                                                <span>1A9WA4 Wanderben, Berlin, Germany</span>
-                                            </div>
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <!-- End Panel Content -->
-                    </div>
-                    <!-- End Activities Panel -->
-
-                    <!-- Publications Panel -->
-                    <div class="card border-0 g-mb-40">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> Publications
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-400 g-pa-0">
-                            <ul class="list-unstyled">
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-blue-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">Unify Template</h5>
-                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
-                                        </div>
-                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">AnhularJS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">PHP</span>
-                                    </div>
-                                </li>
-
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-pink-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">UX/UI Design and Backend</h5>
-                                            <span class="small text-nowrap g-color-pink">16 min ago</span>
-                                        </div>
-                                        <p>Hac consectetur habitasse platea dictumst, adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-color-black g-rounded-20 g-px-10">JavaScript</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">Ruby</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ASP.NET</span>
-                                    </div>
-                                </li>
-
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img4.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">React Native App</h5>
-                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
-                                        </div>
-                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ReactJS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Panel Body -->
-                    </div>
-                    <!-- End Latest Projects Panel -->
-
-                    <!-- Overall Statistics -->
-                    <div class="row g-mb-40">
-                        <div class="col-md-6 g-mb-30 g-mb-0--md">
-                            <div class="g-bg-cyan g-color-white g-pa-25">
-                                <header class="d-flex text-uppercase g-mb-40">
-                                    <i class="icon-people align-self-center display-4 g-mr-20"></i>
-
-                                    <div class="g-line-height-1">
-                                        <h4 class="h5">Overal Visits</h4>
-                                        <div class="js-counter g-font-size-30" data-comma-separated="true">52147</div>
-                                    </div>
-                                </header>
-
-                                <div class="d-flex justify-content-between text-uppercase g-mb-25">
-                                    <div class="g-line-height-1">
-                                        <h5 class="h6 g-font-weight-600">Last Week</h5>
-                                        <div class="js-counter g-font-size-16" data-comma-separated="true">1385</div>
-                                    </div>
-
-                                    <div class="text-right g-line-height-1">
-                                        <h5 class="h6 g-font-weight-600">Last Month</h5>
-                                        <div class="js-counter g-font-size-16" data-comma-separated="true">6048</div>
-                                    </div>
-                                </div>
-
-                                <h6 class="g-mb-10">Project Completeness <span class="float-right g-ml-10">72%</span></h6>
-                                <div class="js-hr-progress-bar progress g-bg-black-opacity-0_1 rounded-0 g-mb-10">
-                                    <div class="js-hr-progress-bar-indicator progress-bar g-bg-white u-progress-bar--xs" role="progressbar" style="width: 72%;" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <small class="g-font-size-12">11% less than last month</small>
-                            </div>
-                        </div>
-
-                        <div class="col-md-6">
-                            <div class="g-bg-purple g-color-white g-pa-25">
-                                <header class="d-flex text-uppercase g-mb-40">
-                                    <i class="icon-layers align-self-center display-4 g-mr-20"></i>
-
-                                    <div class="g-line-height-1">
-                                        <h4 class="h5">Overal Views</h4>
-                                        <div class="js-counter g-font-size-30" data-comma-separated="true">324056</div>
-                                    </div>
-                                </header>
-
-                                <div class="d-flex justify-content-between text-uppercase g-mb-25">
-                                    <div class="g-line-height-1">
-                                        <h5 class="h6 g-font-weight-600">Last Week</h5>
-                                        <div class="js-counter g-font-size-16" data-comma-separated="true">26904</div>
-                                    </div>
-
-                                    <div class="text-right g-line-height-1">
-                                        <h5 class="h6 g-font-weight-600">Last Month</h5>
-                                        <div class="js-counter g-font-size-16" data-comma-separated="true">124766</div>
-                                    </div>
-                                </div>
-
-                                <h6 class="g-mb-10">Project Completeness <span class="float-right g-ml-10">89%</span></h6>
-                                <div class="js-hr-progress-bar progress g-bg-black-opacity-0_1 rounded-0 g-mb-10">
-                                    <div class="js-hr-progress-bar-indicator progress-bar g-bg-white u-progress-bar--xs" role="progressbar" style="width: 89%;" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                                <small class="g-font-size-12">16% higher than last month</small>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Overall Statistics -->
-
+                    <!-- End My mobile Panel -->
 
                     <div class="card border-0 g-mb-40">
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> Publications
+                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> MY WEBSITES
                             </h3>
                         </div>
                         <!-- End Panel Header -->
@@ -880,8 +674,8 @@
                             <div class="row">
                                 <!-- Timeline Date -->
                                 <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                                    <h5 class="h6 g-font-weight-700 mb-0">2012</h5>
-                                    <h4 class="h4 g-font-weight-300">Founded</h4>
+                                    <h5 class="h6 g-font-weight-700 mb-0">05/2018</h5>
+                                    <h4 class="h4 g-font-weight-300">Published</h4>
                                 </div>
                                 <!-- End Timeline Date -->
 
@@ -904,10 +698,9 @@
                                         <!-- End Timeline Arrow -->
 
                                         <header class="g-brd-bottom g-brd-gray-light-v4 g-pb-10 g-mb-25">
-                                            <h3 class="g-font-weight-300">Our First Step</h3>
+                                            <h3 class="g-font-weight-300"><a href="http://blockbod.com" target="_blank">http://blockbod.com</a></h3>
                                         </header>
 
-                                        <p class="lead g-mb-25">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber watercress cress avocado grape.</p>
                                         <img class="g-height-120 g-width-120 g-mb-25 g-mr-20" src="../../assets/img-temp/100x100/img11.jpg" alt="Image description">
                                         <img class="g-height-120 g-width-120 g-mb-25 g-mr-20" src="../../assets/img-temp/100x100/img12.jpg" alt="Image description">
                                         <img class="g-height-120 g-width-120 g-mb-25" src="../../assets/img-temp/100x100/img13.jpg" alt="Image description">
@@ -922,8 +715,8 @@
                             <div class="row">
                                 <!-- Timeline Date -->
                                 <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                                    <h5 class="h6 g-font-weight-700 mb-0">2015</h5>
-                                    <h4 class="h4 g-font-weight-300">Achievements</h4>
+                                    <h5 class="h6 g-font-weight-700 mb-0">03/2018</h5>
+                                    <h4 class="h4 g-font-weight-300">Published</h4>
                                 </div>
                                 <!-- End Timeline Date -->
 
@@ -946,31 +739,9 @@
                                         <!-- End Timeline Arrow -->
 
                                         <header class="g-brd-bottom g-brd-gray-light-v3 g-pb-10 g-mb-25">
-                                            <h3 class="g-font-weight-300">Our Achievements</h3>
+                                            <h3 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com</a></h3>
                                         </header>
 
-                                        <p class="lead g-mb-25">Sprouts wattle seed pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea cress potato sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>
-                                        <div class="row g-mb-15">
-                                            <div class="col-md-5 g-mb-25 g-mb-0--md">
-                                                <img class="img-fluid w-100" src="../../assets/img-temp/400x270/img9.jpg" alt="Image description">
-                                            </div>
-                                            <div class="col-md-7">
-                                                <ul class="list-unstyled g-color-gray-dark-v4 g-mb-0">
-                                                    <li class="d-flex g-mb-10">
-                                                        <i class="icon-check g-color-primary g-mt-5 g-mr-10"></i> Based on Botostrap 4
-                                                    </li>
-                                                    <li class="d-flex g-mb-10">
-                                                        <i class="icon-check g-color-primary g-mt-5 g-mr-10"></i> Responsive Bootstrap Template
-                                                    </li>
-                                                    <li class="d-flex g-mb-10">
-                                                        <i class="icon-check g-color-primary g-mt-5 g-mr-10"></i> Semantic HTML5/CSS3 Codes
-                                                    </li>
-                                                    <li class="d-flex g-mb-10">
-                                                        <i class="icon-check g-color-primary g-mt-5 g-mr-10"></i> Great SASS Architecture
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
                                         <p class="lead mb-0">Cabbage lentil cucumber chickpea sorrel gram garbanzo plantain lotus root bok choy squash cress potato.</p>
                                     </article>
                                 </div>
@@ -978,304 +749,19 @@
                             </div>
                         </li>
 
-                        <li class="col-md-12">
-                            <div class="row">
-                                <!-- Timeline Date -->
-                                <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                                    <h5 class="h6 g-font-weight-700 mb-0">2017</h5>
-                                    <h4 class="h4 g-font-weight-300">Our Products</h4>
-                                </div>
-                                <!-- End Timeline Date -->
-
-                                <!-- Timeline Content -->
-                                <div class="col-md-9 g-orientation-left g-pl-40--md">
-                                    <!-- Timeline Dot -->
-                                    <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                        <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                    </div>
-                                    <!-- End Timeline Dot -->
-
-                                    <article class="g-pos-rel g-bg-gray-light-v5 g-pa-30">
-                                        <!-- Timeline Arrow -->
-                                        <div class="g-hidden-sm-down u-triangle-inclusive-v1--right g-top-30 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--right__back g-brd-gray-light-v5-right"></div>
-                                        </div>
-                                        <div class="g-hidden-md-up u-triangle-inclusive-v1--top g-left-20 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--top__back g-brd-gray-light-v5-bottom"></div>
-                                        </div>
-                                        <!-- End Timeline Arrow -->
-
-                                        <header class="g-brd-bottom g-brd-gray-light-v3 g-pb-10 g-mb-25">
-                                            <h3 class="g-font-weight-300">Premium &amp; Freebie Products</h3>
-                                        </header>
-
-                                        <p class="lead g-mb-20">Sprouts wattle seed pumpkin quandong komatsuna fennel green bean cucumber watercress. Pea cress potato sprouts wattle seed rutabaga okra yarrow cress avocado grape.</p>
-
-                                        <div class="row">
-                                            <div class="col-sm-6 g-mb-20">
-                                                <div class="d-flex">
-                            <span class="u-icon-v3 g-bg-teal g-color-white g-mt-2 g-mr-15">
-                                <i class="icon-directions"></i>
-                              </span>
-
-                                                    <div class="g-line-height-1">
-                                                        <h4 class="h5 g-font-weight-300">Overal Visits</h4>
-                                                        <div class="js-counter g-color-gray-dark-v4 g-font-size-18" data-comma-separated="true">52147</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-sm-6 g-mb-20">
-                                                <div class="d-flex">
-                            <span class="u-icon-v3 g-bg-pink g-color-white g-mt-2 g-mr-15">
-                                <i class="icon-layers"></i>
-                              </span>
-
-                                                    <div class="g-line-height-1">
-                                                        <h4 class="h5 g-font-weight-300">Layouts</h4>
-                                                        <div class="js-counter g-color-gray-dark-v4 g-font-size-18" data-comma-separated="true">324056</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="row">
-                                            <div class="col-sm-6 g-mb-20 g-mb-0--sm">
-                                                <div class="d-flex">
-                            <span class="u-icon-v3 g-bg-aqua g-color-white g-mt-2 g-mr-15">
-                                <i class="icon-trophy"></i>
-                              </span>
-
-                                                    <div class="g-line-height-1">
-                                                        <h4 class="h5 g-font-weight-300">New Features</h4>
-                                                        <div class="js-counter g-color-gray-dark-v4 g-font-size-18" data-comma-separated="true">15147</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-sm-6">
-                                                <div class="d-flex">
-                            <span class="u-icon-v3 g-bg-purple g-color-white g-mt-2 g-mr-15">
-                                <i class="icon-badge"></i>
-                              </span>
-
-                                                    <div class="g-line-height-1">
-                                                        <h4 class="h5 g-font-weight-300">Messages</h4>
-                                                        <div class="js-counter g-color-gray-dark-v4 g-font-size-18" data-comma-separated="true">37283</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </article>
-                                </div>
-                                <!-- End Timeline Content -->
-                            </div>
-                        </li>
                     </ul>
                     <!-- End Timeline Box -->
 
-                    <!-- User Skills -->
-                    <div class="d-flex flex-wrap text-center">
-                        <!-- Counter Pie Chart -->
-                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-purple g-mb-5" data-circles-value="54" data-circles-max-value="100" data-circles-bg-color="#d3b6c6" data-circles-fg-color="#9b6bcc" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Consulting</h4>
-                        </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
-                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-blue g-mb-5" data-circles-value="72" data-circles-max-value="100" data-circles-bg-color="#bee3f7" data-circles-fg-color="#3498db" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Branding</h4>
-                        </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
-                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-lightred g-mb-5" data-circles-value="81" data-circles-max-value="100" data-circles-bg-color="#ffc2bb" data-circles-fg-color="#e74c3c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Copywriting</h4>
-                        </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
-                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-primary g-mb-5" data-circles-value="83" data-circles-max-value="100" data-circles-bg-color="#c9ff97" data-circles-fg-color="#72c02c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Marketing</h4>
-                        </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
-                        <div class="g-mb-20 g-mb-0--lg">
-                            <div class="js-pie g-mb-5" data-circles-value="92" data-circles-max-value="100" data-circles-bg-color="#eeeeee" data-circles-fg-color="#111111" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Management</h4>
-                        </div>
-                        <!-- End Counter Pie Chart -->
-                    </div>
-                    <!-- End User Skills -->
-
-                    <!-- Education Timeline -->
-                    <div class="card border-0 rounded-0 g-mb-40">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> Education
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
-                            <ul class="row u-timeline-v2-wrap list-unstyled">
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">MBA</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2008 - 2010</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Imperial College London</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Bachelor of IT</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2004 - 2008</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">MIT University</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">High School</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2001 - 2004</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Chicago High School</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Elementary School</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2001 - 1992</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">New York Elementary School</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Panel Body -->
-                    </div>
-                    <!-- End Education Timeline -->
                     <!-- User Accounts -->
-                    <div class="row">
+                    <div class="row g-mt-40">
                         <!-- User Accounts (Option 1) -->
                         <div class="col-md-6">
                             <div class="card border-0 rounded-0">
                                 <!-- Panel Header -->
                                 <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
-                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> User Accounts <small>(option 1)</small>
+                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> KNOW-HOW
                                     </h3>
-                                    <div class="dropdown g-mb-10 g-mb-0--md">
-                      <span class="d-block g-color-primary--hover g-cursor-pointer g-mr-minus-5 g-pa-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          <i class="icon-options-vertical g-pos-rel g-top-1"></i>
-                        </span>
-                                        <div class="dropdown-menu dropdown-menu-right rounded-0 g-mt-10">
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-layers g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Projects
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-wallet g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Wallets
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-fire g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Reports
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-settings g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Users Setting
-                                            </a>
-
-                                            <div class="dropdown-divider"></div>
-
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-plus g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> View More
-                                            </a>
-                                        </div>
-                                    </div>
                                 </div>
                                 <!-- End Panel Header -->
 
@@ -1328,33 +814,8 @@
                                 <!-- Panel Header -->
                                 <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
-                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> User Accounts <small>(option 2)</small>
+                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> FAVORITE SITES
                                     </h3>
-                                    <div class="dropdown g-mb-10 g-mb-0--md">
-                      <span class="d-block g-color-primary--hover g-cursor-pointer g-mr-minus-5 g-pa-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                          <i class="icon-options-vertical g-pos-rel g-top-1"></i>
-                        </span>
-                                        <div class="dropdown-menu dropdown-menu-right rounded-0 g-mt-10">
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-layers g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Projects
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-wallet g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Wallets
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-fire g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Reports
-                                            </a>
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-settings g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Users Setting
-                                            </a>
-
-                                            <div class="dropdown-divider"></div>
-
-                                            <a class="dropdown-item g-px-10" href="#!">
-                                                <i class="icon-plus g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> View More
-                                            </a>
-                                        </div>
-                                    </div>
                                 </div>
                                 <!-- End Panel Header -->
 
@@ -1402,6 +863,186 @@
                         <!-- End User Accounts (Option 2) -->
                     </div>
                     <!-- End User Accounts -->
+
+                    <!-- Overall Statistics -->
+                    <div class="row g-mb-40 g-mt-40">
+                        <div class="col-md-6 g-mb-30 g-mb-0--md">
+                            <div class="g-bg-cyan g-color-white g-pa-25">
+                                <header class="d-flex">
+                                    <div class="g-line-height-1">
+                                        <h4 class="h5">STRENGTH</h4>
+                                    </div>
+                                </header>
+                                <h6>Single man is an island amid ocean. Nowadays, a person requires a group of people with whom to succeed. With the rapid developing speed of science and technology, learning new things quickly is most important. I am a quick learner who enjoys acquiring new knowledge and a good team player who shares knowledge and ideas with colleagues.</h6>
+                                <h6>Last but not least, I prefer working smarter than harder. Adaptability to new working and living environment quickly.</h6>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="g-bg-purple g-color-white g-pa-25">
+                                <header class="d-flex text-uppercase">
+                                    <div class="g-line-height-1">
+                                        <h4 class="h5">WEAKNESS</h4>
+                                    </div>
+                                </header>
+
+                                <h6>I am Google-dependent person. I am able to program in many languages but I don’t keep in mind all functions. I usually find uncommon functions over Internet. It slows down my work; however, it makes me adapt various kinds of project as well as acquire novel techniques.<h6>
+                                <h6>No person has all the requisite skills for the new job. I am not an exception. There are many things to learn to fit new position, but I am eager to do that without the hesitation.</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Overall Statistics -->
+
+                    <!-- My goal Timeline -->
+                    <div class="card border-0 rounded-0 g-mb-40 g-mt-20">
+                        <!-- Panel Header -->
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                            <h3 class="h6 mb-0">
+                                <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> MY GOALS
+                            </h3>
+                        </div>
+                        <!-- End Panel Header -->
+
+                        <!-- Panel Body -->
+                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                            <ul class="row u-timeline-v2-wrap list-unstyled">
+                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
+                                    <div class="row">
+                                        <!-- Timeline Date -->
+                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                                            <h5 class="h6 g-font-weight-300 mb-0">2020</h5>
+                                        </div>
+                                        <!-- End Timeline Date -->
+
+                                        <!-- Timeline Content -->
+                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                                            <!-- Timeline Dot -->
+                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                                            </div>
+                                            <!-- End Timeline Dot -->
+
+                                            <article class="g-pa-10--md">
+                                                <h3 class="h4 g-font-weight-300">CEO / PMP</h3>
+                                                <p class="mb-0">I am going to establish my own IT company.</p>
+                                            </article>
+                                        </div>
+                                        <!-- End Timeline Content -->
+                                    </div>
+                                </li>
+                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
+                                    <div class="row">
+                                        <!-- Timeline Date -->
+                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                                            <h5 class="h6 g-font-weight-300 mb-0">2019</h5>
+                                        </div>
+                                        <!-- End Timeline Date -->
+
+                                        <!-- Timeline Content -->
+                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                                            <!-- Timeline Dot -->
+                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                                            </div>
+                                            <!-- End Timeline Dot -->
+
+                                            <article class="g-pa-10--md">
+                                                <h3 class="h4 g-font-weight-300">Blockchain Technician</h3>
+                                                <p class="mb-0">I want to do exciting projects involving blockchain & crypto-data technique.</p>
+                                            </article>
+                                        </div>
+                                        <!-- End Timeline Content -->
+                                    </div>
+                                </li>
+                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
+                                    <div class="row">
+                                        <!-- Timeline Date -->
+                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                                            <h5 class="h6 g-font-weight-300 mb-0">2018</h5>
+                                        </div>
+                                        <!-- End Timeline Date -->
+
+                                        <!-- Timeline Content -->
+                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                                            <!-- Timeline Dot -->
+                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                                            </div>
+                                            <!-- End Timeline Dot -->
+
+                                            <article class="g-pa-10--md">
+                                                <h3 class="h4 g-font-weight-300">Project Leader</h3>
+                                                <p class="mb-0">Finally I got much experience to manage projects & team members.</p>
+                                            </article>
+                                        </div>
+                                        <!-- End Timeline Content -->
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Panel Body -->
+                    </div>
+                    <!-- End My Goal Timeline -->
+
+                    <div class="card border-0 g-mb-20">
+                        <!-- Panel Header -->
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                            <h3 class="h6 mb-0">
+                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PERSONALITY
+                            </h3>
+                        </div>
+                        <!-- End Panel Header -->
+                    </div>
+                    <!-- User Skills -->
+                    <div class="d-flex flex-wrap text-center">
+                        <!-- Counter Pie Chart -->
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <div class="js-pie g-color-purple g-mb-5" data-circles-value="54" data-circles-max-value="100" data-circles-bg-color="#d3b6c6" data-circles-fg-color="#9b6bcc" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
+                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                            </div>
+                            <h4 class="h6 g-font-weight-300">Consulting</h4>
+                        </div>
+                        <!-- End Counter Pie Chart -->
+
+                        <!-- Counter Pie Chart -->
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <div class="js-pie g-color-blue g-mb-5" data-circles-value="72" data-circles-max-value="100" data-circles-bg-color="#bee3f7" data-circles-fg-color="#3498db" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
+                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                            </div>
+                            <h4 class="h6 g-font-weight-300">Branding</h4>
+                        </div>
+                        <!-- End Counter Pie Chart -->
+
+                        <!-- Counter Pie Chart -->
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <div class="js-pie g-color-lightred g-mb-5" data-circles-value="81" data-circles-max-value="100" data-circles-bg-color="#ffc2bb" data-circles-fg-color="#e74c3c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
+                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                            </div>
+                            <h4 class="h6 g-font-weight-300">Copywriting</h4>
+                        </div>
+                        <!-- End Counter Pie Chart -->
+
+                        <!-- Counter Pie Chart -->
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <div class="js-pie g-color-primary g-mb-5" data-circles-value="83" data-circles-max-value="100" data-circles-bg-color="#c9ff97" data-circles-fg-color="#72c02c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
+                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                            </div>
+                            <h4 class="h6 g-font-weight-300">Marketing</h4>
+                        </div>
+                        <!-- End Counter Pie Chart -->
+
+                        <!-- Counter Pie Chart -->
+                        <div class="g-mb-20 g-mb-0--lg">
+                            <div class="js-pie g-mb-5" data-circles-value="92" data-circles-max-value="100" data-circles-bg-color="#eeeeee" data-circles-fg-color="#111111" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
+                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                            </div>
+                            <h4 class="h6 g-font-weight-300">Management</h4>
+                        </div>
+                        <!-- End Counter Pie Chart -->
+                    </div>
+                    <!-- End User Skills -->
+
+
                 </div>
                 <!-- End Profle Content -->
             </div>
