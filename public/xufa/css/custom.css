@@ -1,0 +1,98 @@
+/**
+   * author: Martin SangDo
+ */
+.pointer {cursor:pointer;}
+.main-news-section article .post-content h2 {text-overflow: initial; white-space: initial;}
+.ellipsis5lines p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5; /* N: number of lines to show */
+    line-height: 1.8em;        /* X: fallback */
+    max-height: 400px;       /* X*N fallback */
+}
+.ellipsis4lines p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4; /* N: number of lines to show */
+    line-height: 1.8em;        /* X: fallback */
+    max-height: 280px;       /* X*N fallback */
+}
+.ellipsis3lines p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3; /* N: number of lines to show */
+    line-height: 20px;        /* X: fallback */
+    max-height: 60px;       /* X*N fallback */
+}
+.ellipsis3lines_title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3; /* N: number of lines to show */
+    line-height: 20px;        /* X: fallback */
+    max-height: 60px;       /* X*N fallback */
+}
+.news-text-wrap h2 a {font-size: 15px;}
+p {font-size:14px;}
+/* center image in background */
+.center-cropped-fill {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+@media (max-width: 400px) {
+
+}
+.home0-center-cropped {
+    width: 120px;
+    height: 67px;
+}
+.home1-center-cropped {
+    width: 244px;
+    height: 136px;
+}
+.home2-center-cropped {
+    width: 379px;
+    height: 213px;
+}
+
+.d1-center-cropped {
+    width: 261px;
+    height: 180px;
+}
+
+.cat-center-cropped {
+    width: 408px;
+    height: 272px;
+}
+.dt-news-post-meta span {font-size:12px;}
+.sidebar .social-widgets ul li a {text-align: left; padding-right:0;}
+.sidebar .social-widgets ul li a .screen-reader-text {margin-left:10px;}
+
+.left-aligned .news-thumb.left-image, .left-aligned .news-text-wrap, .right-aligned .news-thumb.right-image, .right-aligned .news-text-wrap {width: 50%;}
+.left-aligned .news-text-wrap {padding-left: 5px;}
+.right-aligned .news-text-wrap {padding-right: 5px;}
+
+.sidebar .label-sponsor {color:#ccc;font-size:8pt;}
+.gallery-columns-3 .gallery-item {margin-bottom:10px;}
+
+.gallery-columns-3 .gallery-item {max-width:32%;}
+.book_price_1 {font-size:12pt;color:#f00;font-weight:bold;}
+.buy_link {color:#333;}
+.margin-t-0 {margin-top:0;}
+.margin-b-10 {margin-bottom:10px;}
+.margin-b-20 {margin-bottom:20px !important;}
+.g-height-80 {height: 80px;}
+.g-height-820 {height: 820px;}
+.g-height-357 {height:357px;}
+.g-height-427 {height:427px;}
+.g-font-14px {font-size:14px;}
+.g-font-15px {font-size:15px;}
+.dt-pagination-nav li a {font-size:15px;}
