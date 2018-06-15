@@ -9,7 +9,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <link rel="canonical" href="http://boardblockchain.com" />
+    <link rel="canonical" href="http://.com" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Martin SangDo Profile" />
@@ -58,24 +58,15 @@
                             <div class="col-lg-4 g-mb-40 g-mb-0--lg">
                                 <!-- User Image -->
                                 <div class="g-mb-20">
-                                    <img class="img-fluid w-100" src="/public/unify_assets/img-temp/400x450/img5.jpg" alt="Image Description">
+                                    <img class="img-fluid w-100" src="/public/unify_assets/img-temp/400x450/img5.jpg" alt="Martin SangDo Profile"/>
                                 </div>
                                 <!-- User Image -->
-
-                                <!-- User Contact Buttons -->
-                                <a class="btn btn-block u-btn-outline-primary g-rounded-50 g-py-12 g-mb-10" href="#!">
-                                    <i class="icon-user-follow g-pos-rel g-top-1 g-mr-5"></i> Follow Me
-                                </a>
-                                <a class="btn btn-block u-btn-darkgray g-rounded-50 g-py-12 g-mb-10" href="#!">
-                                    <i class="icon-call-in g-pos-rel g-top-1 g-mr-5"></i> Contact Me
-                                </a>
-                                <!-- End User Contact Buttons -->
                             </div>
 
                             <div class="col-lg-8">
                                 <!-- User Details -->
                                 <div class="d-flex align-items-center justify-content-sm-between g-mb-5">
-                                    <h2 class="g-font-weight-300 g-mr-10">Johne Doe</h2>
+                                    <h2 class="g-font-weight-300 g-mr-10">Do-Thanh Sang</h2>
                                     <ul class="list-inline mb-0">
                                         <li class="list-inline-item g-mx-2">
                                             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="https://www.linkedin.com/in/dtsang012/" target="_blank">
@@ -89,76 +80,66 @@
 
                                 <!-- User Position -->
                                 <h4 class="h6 g-font-weight-300 g-mb-10">
-                                    <i class="icon-badge g-pos-rel g-top-1 g-mr-5 g-color-gray-dark-v5"></i> Project Manager at Pixeel Ltd.
+                                    <i class="icon-badge g-pos-rel g-top-1 g-mr-5 g-color-gray-dark-v5"></i> M.Eng. Computer Science
                                 </h4>
                                 <!-- End User Position -->
 
                                 <!-- User Info -->
                                 <ul class="list-inline g-font-weight-300">
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-location-pin g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> London, UK
+                                        <i class="icon-location-pin g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> HoChiMinh city, Vietnam
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-check g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> Verified User
+                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-main g-color-primary--hover" href="mailto:martin.sangdo@gmail.com?subject=Hello Sang, I send from your site">martin.sangdo@gmail.com</a>
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-link g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i>  <a class="g-color-main g-color-primary--hover" href="#!">hs.c/hsu20</a>
+                                        <i class="icon-social-skype g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> stl.sang.do
                                     </li>
                                 </ul>
                                 <!-- End User Info -->
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
 
-                                <p class="lead g-line-height-1_8">About elementum tincidunt massa, a pulvinar leo ultricies ut. Ut fringilla lectus tellusimp imperdiet molestie est. Dell viverra cursus nibh volutpat at.</p>
+
+
+                                <p class="">
+                                    My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
+                                <p>
+                                    I am carrying 10 years of experience in Software Industry.
+                                    Since last 2 years I was working in the Engma Ltd in position Project Leader. I'm currently doing contract/freelance tasks.
+                                </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
 
                                 <!-- User Skills -->
                                 <div class="d-flex flex-wrap text-center">
-                                    <!-- Counter Pie Chart -->
-                                    <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                                        <div class="js-pie g-color-purple g-mb-5" data-circles-value="54" data-circles-max-value="100" data-circles-bg-color="#d3b6c6" data-circles-fg-color="#9b6bcc" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                             data-circles-scroll-animate="true" data-circles-font-size="14">
-                                        </div>
-                                        <h4 class="h6 g-font-weight-300">Consulting</h4>
-                                    </div>
-                                    <!-- End Counter Pie Chart -->
+                                    <?php
+                                    $skills = array(
+                                         0 => array('value' => 90,'name' => 'PHP','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
+                                         1 => array('value' => 90,'name' => 'Nodejs','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
+                                        2 => array('value' => 60,'name' => 'React Native','bg_color'=>'c9ff97', 'fg_color'=>'72c02c', 'exp'=>'2 yrs'),
+                                        3 => array('value' => 70,'name' => 'Python','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
+                                        4 => array('value' => 60,'name' => 'C/C++','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'2 yrs'),
+                                        5 => array('value' => 80,'name' => 'SQL','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
+                                        6 => array('value' => 90,'name' => 'jQuery','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
+                                        7 => array('value' => 90,'name' => 'HTML/CSS','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
 
-                                    <!-- Counter Pie Chart -->
-                                    <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                                        <div class="js-pie g-color-blue g-mb-5" data-circles-value="72" data-circles-max-value="100" data-circles-bg-color="#bee3f7" data-circles-fg-color="#3498db" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                             data-circles-scroll-animate="true" data-circles-font-size="14">
+                                    );
+                                    for ($i=0; $i<count($skills); $i++){
+                                        ?>
+                                        <!-- Counter Pie Chart -->
+                                        <div class="g-mr-20 g-mb-20 g-mb-0--xl">
+                                            <div class="js-pie g-color-lightred g-mb-5" data-circles-value="<?php echo $skills[$i]['value'];?>" data-circles-max-value="100" data-circles-bg-color="#<?php echo $skills[$i]['bg_color'];?>" data-circles-fg-color="#<?php echo $skills[$i]['fg_color'];?>" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="1000"
+                                                 data-circles-scroll-animate="true" data-circles-font-size="14">
+                                            </div>
+                                            <h4 class="h6"><?php echo $skills[$i]['name'];?></h4>
+                                            <h4 class="h6 g-font-weight-300"><?php echo $skills[$i]['exp'];?></h4>
                                         </div>
-                                        <h4 class="h6 g-font-weight-300">Branding</h4>
-                                    </div>
-                                    <!-- End Counter Pie Chart -->
+                                        <!-- End Counter Pie Chart -->
+                                    <?php
+                                    }
+                                    ?>
 
-                                    <!-- Counter Pie Chart -->
-                                    <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                                        <div class="js-pie g-color-lightred g-mb-5" data-circles-value="81" data-circles-max-value="100" data-circles-bg-color="#ffc2bb" data-circles-fg-color="#e74c3c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                             data-circles-scroll-animate="true" data-circles-font-size="14">
-                                        </div>
-                                        <h4 class="h6 g-font-weight-300">Copywriting</h4>
-                                    </div>
-                                    <!-- End Counter Pie Chart -->
-
-                                    <!-- Counter Pie Chart -->
-                                    <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                                        <div class="js-pie g-color-primary g-mb-5" data-circles-value="83" data-circles-max-value="100" data-circles-bg-color="#c9ff97" data-circles-fg-color="#72c02c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                             data-circles-scroll-animate="true" data-circles-font-size="14">
-                                        </div>
-                                        <h4 class="h6 g-font-weight-300">Marketing</h4>
-                                    </div>
-                                    <!-- End Counter Pie Chart -->
-
-                                    <!-- Counter Pie Chart -->
-                                    <div class="g-mb-20 g-mb-0--lg">
-                                        <div class="js-pie g-mb-5" data-circles-value="92" data-circles-max-value="100" data-circles-bg-color="#eeeeee" data-circles-fg-color="#111111" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                             data-circles-scroll-animate="true" data-circles-font-size="14">
-                                        </div>
-                                        <h4 class="h6 g-font-weight-300">Management</h4>
-                                    </div>
-                                    <!-- End Counter Pie Chart -->
                                 </div>
                                 <!-- End User Skills -->
                             </div>
@@ -173,43 +154,18 @@
                             <h3 class="h6 mb-0">
                                 <i class="icon-briefcase g-pos-rel g-top-1 g-mr-5"></i> Experience
                             </h3>
-                            <div class="dropdown g-mb-10 g-mb-0--md">
-                  <span class="d-block g-color-primary--hover g-cursor-pointer g-mr-minus-5 g-pa-5" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      <i class="icon-options-vertical g-pos-rel g-top-1"></i>
-                    </span>
-                                <div class="dropdown-menu dropdown-menu-right rounded-0 g-mt-10">
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-layers g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Projects
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-wallet g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Wallets
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-fire g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Reports
-                                    </a>
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-settings g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> Users Setting
-                                    </a>
-
-                                    <div class="dropdown-divider"></div>
-
-                                    <a class="dropdown-item g-px-10" href="#!">
-                                        <i class="icon-plus g-font-size-12 g-color-gray-dark-v5 g-mr-5"></i> View More
-                                    </a>
-                                </div>
-                            </div>
                         </div>
                         <!-- End Panel Header -->
 
                         <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-350 g-pa-0">
                             <ul class="row u-timeline-v2-wrap list-unstyled">
                                 <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Project Manager</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2016 - Current</h5>
+                                            <h5 class="h6 g-font-weight-300 mb-0">02/2018 - Current</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -222,7 +178,7 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Pixeel Ltd.</h3>
+                                                <h3 class="h4 g-font-weight-300">Freelancer</h3>
                                                 <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
                                             </article>
                                         </div>
@@ -233,8 +189,9 @@
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Full Stack Developer</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2014 - 2016</h5>
+                                            <h4 class="h5 g-font-weight-300">ENGMA Ltd.</h4>
+                                            <h5 class="h6 g-font-weight-300 mb-0">08/2015 - 01/2018</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -247,7 +204,7 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Htmlstream</h3>
+                                                <h3 class="h4 g-font-weight-300">Technical Manager</h3>
                                                 <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
                                             </article>
                                         </div>
@@ -258,8 +215,9 @@
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Frontend Developer</h4>
+                                            <h4 class="h5 g-font-weight-300">NSOFT Ltd.</h4>
                                             <h5 class="h6 g-font-weight-300 mb-0">2012 - 2014</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -272,7 +230,7 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Amazon Inc.</h3>
+                                                <h3 class="h4 g-font-weight-300">Project Leader</h3>
                                                 <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
                                             </article>
                                         </div>
@@ -283,8 +241,9 @@
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">UX/UI Designer</h4>
+                                            <h4 class="h5 g-font-weight-300">UZEN Ltd.</h4>
                                             <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -297,7 +256,59 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Apple Inc.</h3>
+                                                <h3 class="h4 g-font-weight-300">R&D Engineer</h3>
+                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                                            </article>
+                                        </div>
+                                        <!-- End Timeline Content -->
+                                    </div>
+                                </li>
+                                <li class="col-md-12">
+                                    <div class="row">
+                                        <!-- Timeline Date -->
+                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                                            <h4 class="h5 g-font-weight-300">GAMELOFT Ltd.</h4>
+                                            <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
+                                        </div>
+                                        <!-- End Timeline Date -->
+
+                                        <!-- Timeline Content -->
+                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                                            <!-- Timeline Dot -->
+                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                                            </div>
+                                            <!-- End Timeline Dot -->
+
+                                            <article class="g-pa-10--md">
+                                                <h3 class="h4 g-font-weight-300">Mobile game developer</h3>
+                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                                            </article>
+                                        </div>
+                                        <!-- End Timeline Content -->
+                                    </div>
+                                </li>
+                                <li class="col-md-12">
+                                    <div class="row">
+                                        <!-- Timeline Date -->
+                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                                            <h4 class="h5 g-font-weight-300">SANGTAO Ltd.</h4>
+                                            <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
+                                        </div>
+                                        <!-- End Timeline Date -->
+
+                                        <!-- Timeline Content -->
+                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                                            <!-- Timeline Dot -->
+                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                                            </div>
+                                            <!-- End Timeline Dot -->
+
+                                            <article class="g-pa-10--md">
+                                                <h3 class="h4 g-font-weight-300">Web developer</h3>
                                                 <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
                                             </article>
                                         </div>
@@ -321,14 +332,14 @@
                         <!-- End Panel Header -->
 
                         <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-250 g-pa-0">
                             <ul class="row u-timeline-v2-wrap list-unstyled">
                                 <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">MBA</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2008 - 2010</h5>
+                                            <h4 class="h5 g-font-weight-300">M.Eng.</h4>
+                                            <h5 class="h6 g-font-weight-300 mb-0">2009 - 2011</h5>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -341,8 +352,9 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Imperial College London</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                                                <h3 class="h4 g-font-weight-300">Myongji University, S.Korea</h3>
+                                                <p class="mb-0">Image Processing Lab, Deparment of Electronic Engineering</p>
+                                                <p>I got full scholarship from my Professor and conducted several experiences about satellite images.</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -352,8 +364,8 @@
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Bachelor of IT</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2004 - 2008</h5>
+                                            <h4 class="h5 g-font-weight-300">B.Eng.</h4>
+                                            <h5 class="h6 g-font-weight-300 mb-0">2002 - 2007</h5>
                                         </div>
                                         <!-- End Timeline Date -->
 
@@ -366,58 +378,8 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">MIT University</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">High School</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2001 - 2004</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Chicago High School</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">Elementary School</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2001 - 1992</h5>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">New York Elementary School</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                                                <h3 class="h4 g-font-weight-300">HCM University of Technology, Vietnam</h3>
+                                                <p class="mb-0">Faculty of Computer Science and Engineering</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
