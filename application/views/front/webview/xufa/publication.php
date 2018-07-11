@@ -1,7 +1,7 @@
 <!-- Publications Panel -->
 <div class="card border-0 g-mb-40">
     <!-- Panel Header -->
-    <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+    <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
         <h3 class="h6 mb-0">
             <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PUBLICATIONS
         </h3>

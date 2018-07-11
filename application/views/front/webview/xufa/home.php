@@ -2,19 +2,17 @@
 <html lang="en">
 
 <head>
-    <!-- Title -->
     <title>Martin SangDo Profile</title>
 
-    <!-- Required Meta Tags Always Come First -->
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
-    <link rel="canonical" href="http://.com" />
+    <link rel="canonical" href="http://sangdoprofile.com" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Martin SangDo Profile" />
-    <meta property="og:url" content="http://" />
-    <meta property="og:site_name" content="" />
+    <meta property="og:url" content="http://sangdoprofile.com" />
+    <meta property="og:site_name" content="SangDo Profile" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Martin SangDo Profile" />
 
@@ -69,7 +67,7 @@
                                     <h2 class="g-font-weight-300 g-mr-10">Do-Thanh Sang (Martin)</h2>
                                     <ul class="list-inline mb-0">
                                         <li class="list-inline-item g-mx-2">
-                                            <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-gray-light-v1 g-bg-gray-light-v5 g-color-gray-light-v1--hover rounded-circle" href="https://www.linkedin.com/in/dtsang012/" target="_blank">
+                                            <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-white g-bg-blue rounded-circle" href="https://www.linkedin.com/in/dtsang012/" target="_blank">
                                                 <i class="g-font-size-default g-line-height-1 u-icon__elem-regular fa fa-linkedin"></i>
                                                 <i class="g-font-size-default g-line-height-0_8 u-icon__elem-hover fa fa-linkedin"></i>
                                             </a>
@@ -80,20 +78,20 @@
 
                                 <!-- User Position -->
                                 <h4 class="h6 g-font-weight-300 g-mb-10">
-                                    <i class="icon-badge g-pos-rel g-top-1 g-mr-5 g-color-gray-dark-v5"></i> M.Eng. Computer Science
+                                    <i class="icon-badge g-pos-rel g-top-1 g-mr-5 g-color-yellow"></i> M.Eng. Computer Science
                                 </h4>
                                 <!-- End User Position -->
 
                                 <!-- User Info -->
                                 <ul class="list-inline g-font-weight-300">
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-location-pin g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> HoChiMinh city, Vietnam
+                                        <i class="icon-location-pin g-pos-rel g-top-1 g-color-google-plus g-mr-5"></i> HoChiMinh city, Vietnam
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-main g-color-primary--hover" href="mailto:martin.sangdo@gmail.com?subject=Hello Sang, I send from your site">martin.sangdo@gmail.com</a>
+                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:martin.sangdo@gmail.com?subject=Hello Sang, I send from your site">Email me</a>
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-social-skype g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> stl.sang.do
+                                        <i class="icon-social-skype g-pos-rel g-top-1 g-color-aqua g-mr-5"></i> stl.sang.do
                                     </li>
                                 </ul>
                                 <!-- End User Info -->
@@ -106,7 +104,7 @@
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
                                     I am carrying 10 years of experience in Software Industry.
-                                    Since last 2 years I was working in the ENGMA Ltd in position Technical Manager. I'm currently doing contract/freelance tasks.
+                                    Since last 2 years I was working in position as Technical Manager at ENGMA company. I'm currently doing contract/freelance jobs.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -149,231 +147,17 @@
                     <!-- End User Block -->
 
                     <!-- Experience Timeline -->
-                    <div class="card border-0 rounded-0 g-mb-40">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-briefcase g-pos-rel g-top-1 g-mr-5"></i> EXPERIENCE
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-350 g-pa-0">
-                            <ul class="row u-timeline-v2-wrap list-unstyled">
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h5 class="h6 g-font-weight-300 mb-0">02/2018 - Current</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Freelancer</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">ENGMA Ltd.</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">08/2015 - 01/2018</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Technical Manager</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">NSOFT Ltd.</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2012 - 2014</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Project Leader</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">UZEN Ltd.</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">R&D Engineer</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">GAMELOFT Ltd.</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Mobile game developer</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                                <li class="col-md-12">
-                                    <div class="row">
-                                        <!-- Timeline Date -->
-                                        <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h4 class="h5 g-font-weight-300">SANGTAO Ltd.</h4>
-                                            <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
-                                            <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
-                                        </div>
-                                        <!-- End Timeline Date -->
-
-                                        <!-- Timeline Content -->
-                                        <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
-                                            <!-- Timeline Dot -->
-                                            <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                                <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                            </div>
-                                            <!-- End Timeline Dot -->
-
-                                            <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Web developer</h3>
-                                                <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
-                                            </article>
-                                        </div>
-                                        <!-- End Timeline Content -->
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Panel Body -->
-                    </div>
+                    <?php require_once 'experience.php'; ?>
                     <!-- End Experience Timeline -->
 
                     <!-- Projects Panel -->
-                    <div class="card border-0">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> LATEST PROJECTS
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Content -->
-                        <div class="card-block g-pa-0">
-                            <div class="table-responsive">
-                                <table class="table table-bordered u-table--v2">
-                                    <thead class="text-uppercase g-letter-spacing-1">
-                                    <tr>
-                                        <th class="g-font-weight-300 g-color-black">Companies</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Project Description</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-200">My roles</th>
-                                        <th class="g-font-weight-300 g-color-black g-min-width-200">Time</th>
-                                    </tr>
-                                    </thead>
-
-                                    <tbody>
-                                    <tr>
-                                        <td class="align-middle text-nowrap text-center">
-                                            <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img3.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Pixeel Ltd" alt="Image Description">
-                                        </td>
-                                        <td class="align-middle">Nulla ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl.</td>
-                                        <td class="align-middle">
-                                            <ul>
-                                                <li>aaa</li>
-                                                <li>ddd</li>
-                                            </ul>
-                                        </td>
-                                        <td class="align-middle">
-                                            <div class="js-rating g-font-size-121 g-color-primary" data-rating="4" data-spacing="3"></div>
-                                        </td>
-                                    </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <!-- End Panel Content -->
-                    </div>
+                    <?php require_once 'projects.php'; ?>
                     <!-- End Projects Panel -->
 
                     <!-- Education Timeline -->
                     <div class="card border-0 rounded-0">
                         <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
                                 <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> EDUCATION
                             </h3>
@@ -403,7 +187,7 @@
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">Myongji University, S.Korea</h3>
                                                 <p class="mb-0">Image Processing Lab, Deparment of Electronic Engineering</p>
-                                                <p>I got full scholarship from my Professor and conducted several experiences about satellite images.</p>
+                                                <p>I received full scholarship from my Professor and conducted several experiences about satellite images.</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -441,166 +225,12 @@
                     <!-- End Education Timeline -->
 
                     <!-- Publications Panel -->
-                    <div class="card border-0 g-mb-40">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PUBLICATIONS
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-
-                        <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-400 g-pa-0">
-                            <ul class="list-unstyled">
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-blue-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">Unify Template</h5>
-                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
-                                        </div>
-                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">AnhularJS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">PHP</span>
-                                    </div>
-                                </li>
-
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-pink-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img5.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">UX/UI Design and Backend</h5>
-                                            <span class="small text-nowrap g-color-pink">16 min ago</span>
-                                        </div>
-                                        <p>Hac consectetur habitasse platea dictumst, adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-color-black g-rounded-20 g-px-10">JavaScript</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">Ruby</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ASP.NET</span>
-                                    </div>
-                                </li>
-
-                                <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
-                                    <div class="d-flex g-mt-2 g-mr-15">
-                                        <img class="g-width-40 g-height-40 rounded-circle" src="../../assets/img-temp/100x100/img4.jpg" alt="Image Description">
-                                    </div>
-                                    <div class="media-body">
-                                        <div class="d-flex justify-content-between">
-                                            <h5 class="h6 g-font-weight-600 g-color-black">React Native App</h5>
-                                            <span class="small text-nowrap g-color-blue">2 min ago</span>
-                                        </div>
-                                        <p>Curabitur hendrerit dolor sit amet consectetur. Adipiscing elitut leosit amet, consectetur eleifend.</p>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">ReactJS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">CSS</span>
-                                        <span class="u-label u-label--sm g-bg-gray-light-v4 g-color-main g-rounded-20 g-px-10">HTML</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- End Panel Body -->
-                    </div>
+                    <?php require_once 'publication.php'; ?>
                     <!-- End Publications Panel -->
 
                     <?php require_once 'my_apps.php'; ?>
 
-                    <div class="card border-0 g-mb-40">
-                        <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
-                            <h3 class="h6 mb-0">
-                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> MY WEBSITES
-                            </h3>
-                        </div>
-                        <!-- End Panel Header -->
-                    </div>
-                    <!-- Timeline Box -->
-                    <ul class="row u-timeline-v2-wrap list-unstyled">
-                        <li class="col-md-12 g-mb-40">
-                            <div class="row">
-                                <!-- Timeline Date -->
-                                <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                                    <h5 class="h6 g-font-weight-700 mb-0">05/2018</h5>
-                                    <h4 class="h4 g-font-weight-300">Published</h4>
-                                </div>
-                                <!-- End Timeline Date -->
-
-                                <!-- Timeline Content -->
-                                <div class="col-md-9 g-orientation-left g-pl-40--md">
-                                    <!-- Timeline Dot -->
-                                    <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                        <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                    </div>
-                                    <!-- End Timeline Dot -->
-
-                                    <article class="g-pos-rel g-bg-gray-light-v5 g-pa-30">
-                                        <!-- Timeline Arrow -->
-                                        <div class="g-hidden-sm-down u-triangle-inclusive-v1--right g-top-30 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--right__back g-brd-gray-light-v5-right"></div>
-                                        </div>
-                                        <div class="g-hidden-md-up u-triangle-inclusive-v1--top g-left-20 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--top__back g-brd-gray-light-v5-bottom"></div>
-                                        </div>
-                                        <!-- End Timeline Arrow -->
-
-                                        <header class="g-brd-bottom g-brd-gray-light-v4 g-pb-10 g-mb-25">
-                                            <h3 class="g-font-weight-300"><a href="http://blockbod.com" target="_blank">http://blockbod.com</a></h3>
-                                        </header>
-
-                                        <img class="g-height-120 g-width-120 g-mb-25 g-mr-20" src="../../assets/img-temp/100x100/img11.jpg" alt="Image description">
-                                        <img class="g-height-120 g-width-120 g-mb-25 g-mr-20" src="../../assets/img-temp/100x100/img12.jpg" alt="Image description">
-                                        <img class="g-height-120 g-width-120 g-mb-25" src="../../assets/img-temp/100x100/img13.jpg" alt="Image description">
-                                        <p class="lead mb-0">Pea cress potato sprouts wattle seed rutabaga okra yarrow green bean cucumber watercress cress avocado grape. Cabbage lentil cucumber chickpea sorrel gram garbanzo plantain lotus root bok choy squash cress potato.</p>
-                                    </article>
-                                </div>
-                                <!-- End Timeline Content -->
-                            </div>
-                        </li>
-
-                        <li class="col-md-12 g-mb-40">
-                            <div class="row">
-                                <!-- Timeline Date -->
-                                <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                                    <h5 class="h6 g-font-weight-700 mb-0">03/2018</h5>
-                                    <h4 class="h4 g-font-weight-300">Published</h4>
-                                </div>
-                                <!-- End Timeline Date -->
-
-                                <!-- Timeline Content -->
-                                <div class="col-md-9 g-orientation-left g-pl-40--md">
-                                    <!-- Timeline Dot -->
-                                    <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
-                                        <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
-                                    </div>
-                                    <!-- End Timeline Dot -->
-
-                                    <article class="g-pos-rel g-bg-gray-light-v5 g-pa-30">
-                                        <!-- Timeline Arrow -->
-                                        <div class="g-hidden-sm-down u-triangle-inclusive-v1--right g-top-30 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--right__back g-brd-gray-light-v5-right"></div>
-                                        </div>
-                                        <div class="g-hidden-md-up u-triangle-inclusive-v1--top g-left-20 g-z-index-2">
-                                            <div class="u-triangle-inclusive-v1--top__back g-brd-gray-light-v5-bottom"></div>
-                                        </div>
-                                        <!-- End Timeline Arrow -->
-
-                                        <header class="g-brd-bottom g-brd-gray-light-v3 g-pb-10 g-mb-25">
-                                            <h3 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com</a></h3>
-                                        </header>
-
-                                        <p class="lead mb-0">Cabbage lentil cucumber chickpea sorrel gram garbanzo plantain lotus root bok choy squash cress potato.</p>
-                                    </article>
-                                </div>
-                                <!-- End Timeline Content -->
-                            </div>
-                        </li>
-
-                    </ul>
-                    <!-- End Timeline Box -->
+                    <?php require_once 'my_webs.php'; ?>
 
                     <!-- User Accounts -->
                     <div class="row g-mt-40">
@@ -608,7 +238,7 @@
                         <div class="col-md-6">
                             <div class="card border-0 rounded-0">
                                 <!-- Panel Header -->
-                                <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                                <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
                                         <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> KNOW-HOW
                                     </h3>
@@ -662,7 +292,7 @@
                             <!-- User Accounts -->
                             <div class="card border-0 rounded-0">
                                 <!-- Panel Header -->
-                                <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                                <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
                                         <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> FAVORITE SITES
                                     </h3>
@@ -746,7 +376,7 @@
                     <!-- My goal Timeline -->
                     <div class="card border-0 rounded-0 g-mb-40 g-mt-20">
                         <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
                                 <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> MY GOALS
                             </h3>
@@ -836,7 +466,7 @@
 
                     <div class="card border-0 g-mb-20">
                         <!-- Panel Header -->
-                        <div class="card-header d-flex align-items-center justify-content-between g-bg-gray-light-v5 border-0 g-mb-15">
+                        <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
                                 <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PERSONALITY
                             </h3>
