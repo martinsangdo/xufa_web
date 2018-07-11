@@ -185,7 +185,7 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Myongji University, S.Korea</h3>
+                                                <h3 class="h4 g-font-weight-300">Myongji University, South Korea</h3>
                                                 <p class="mb-0">Image Processing Lab, Deparment of Electronic Engineering</p>
                                                 <p>I received full scholarship from my Professor and conducted several experiences about satellite images.</p>
                                             </article>

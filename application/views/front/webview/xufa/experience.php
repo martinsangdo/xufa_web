@@ -60,6 +60,7 @@
                                     <li>Manage/train/interview members including developers & testers</li>
                                     <li>Estimate & supervise to finish projects successfully</li>
                                     <li>Research cutting edge techniques for all projects & improve productivity of team</li>
+                                    <li>Design UML</li>
                                     <li>Our clients are mainly from Japan, Singapore</li>
                                 </ul>
                             </p>
@@ -154,7 +155,7 @@
                             <h3 class="h4 g-font-weight-300">Mobile game developer</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>Develop mobile game in touch screen phones</li>
+                                    <li>Develop mobile games in touch screen phones</li>
                                     <li>Participated games: FarCry 2, CSI New York, Platinum Sudoku 2</li>
                                 </ul>
                             </p>
@@ -187,7 +188,7 @@
                                 <ul>
                                     <li>Analyze and optimize database system</li>
                                     <li>Design detail algorithms for programmers</li>
-                                    <li>Setup core servers for web-based projects</li>
+                                    <li>Setup initial servers for web-based projects</li>
                                 </ul>
                             </p>
                         </article>
