@@ -10,25 +10,25 @@
     <!-- Panel Content -->
     <div class="card-block g-pa-0">
         <div class="table-responsive">
-            <table class="table table-bordered u-table--v2">
+            <table class="table table-bordered u-table--v1">
                 <thead class="text-uppercase g-letter-spacing-1">
                 <tr>
-                    <th class="g-font-weight-300 g-color-black">Companies</th>
-                    <th class="g-font-weight-300 g-color-black g-min-width-200">Project Description</th>
-                    <th class="g-font-weight-300 g-color-black g-min-width-200">My roles</th>
-                    <th class="g-font-weight-300 g-color-black g-min-width-200">Time</th>
+                    <th class="g-font-weight-600 g-color-black">Companies</th>
+                    <th class="g-font-weight-600 g-color-black g-min-width-200">Project Name</th>
+                    <th class="g-font-weight-600 g-color-black g-min-width-200">Project Description</th>
+                    <th class="g-font-weight-600 g-color-black g-min-width-200">Time</th>
                 </tr>
                 </thead>
 
                 <tbody>
                 <tr>
                     <td class="align-middle text-nowrap text-center">
-                        <img class="g-brd-around g-brd-gray-light-v4 g-pa-2 g-width-50 g-height-50 rounded-circle" src="../../assets/img-temp/100x100/img3.jpg" data-toggle="tooltip" data-placement="top" data-original-title="Pixeel Ltd" alt="Image Description">
+                        ENGMA Ltd.
                     </td>
-                    <td class="align-middle">Nulla ipsum dolor sit amet, consectetur adipiscing elitut eleifend nisl.</td>
+                    <td class="align-middle">SNS</td>
                     <td class="align-middle">
                         <ul>
-                            <li>aaa</li>
+                            <li>An multiple social network Android app</li>
                             <li>ddd</li>
                         </ul>
                     </td>

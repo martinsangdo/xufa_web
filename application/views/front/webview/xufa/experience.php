@@ -29,7 +29,7 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Freelancer</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">I am willing to take remotely jobs, average 40 hours weekly. I can do full stack web and Android/iOS app.</p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -55,7 +55,14 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Technical Manager</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Manage/train/interview members including developers & testers</li>
+                                    <li>Estimate & supervise to finish projects successfully</li>
+                                    <li>Research cutting edge techniques for all projects & improve productivity of team</li>
+                                    <li>Our clients are mainly from Japan, Singapore</li>
+                                </ul>
+                            </p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -66,7 +73,7 @@
                     <!-- Timeline Date -->
                     <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
                         <h4 class="h5 g-font-weight-300">NSOFT Ltd.</h4>
-                        <h5 class="h6 g-font-weight-300 mb-0">2012 - 2014</h5>
+                        <h5 class="h6 g-font-weight-300 mb-0">02/2013 - 12/2014</h5>
                         <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
                     </div>
                     <!-- End Timeline Date -->
@@ -81,7 +88,13 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Project Leader</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Manage/train designers to finish tasks in projects</li>
+                                    <li>Develop Android application</li>
+                                    <li>Develop EPUB web-based editor. People are able to make their own fixed-style layout e-books online</li>
+                                </ul>
+                            </p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -92,7 +105,7 @@
                     <!-- Timeline Date -->
                     <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
                         <h4 class="h5 g-font-weight-300">UZEN Ltd.</h4>
-                        <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                        <h5 class="h6 g-font-weight-300 mb-0">07/2011 - 01/2013</h5>
                         <h6 class="h6 g-font-weight-300 mb-0">Seoul, S.Korea</h6>
                     </div>
                     <!-- End Timeline Date -->
@@ -107,7 +120,13 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">R&D Engineer</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Develop Android/iOS apps</li>
+                                    <li>Utilize public API gateways: Facebook, Youtube, Flickr, Google Plus</li>
+                                    <li>Develop front-end and back-end website</li>
+                                </ul>
+                            </p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -118,7 +137,7 @@
                     <!-- Timeline Date -->
                     <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
                         <h4 class="h5 g-font-weight-300">GAMELOFT Ltd.</h4>
-                        <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                        <h5 class="h6 g-font-weight-300 mb-0">12/2007 - 06/2009</h5>
                         <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
                     </div>
                     <!-- End Timeline Date -->
@@ -133,7 +152,12 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Mobile game developer</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Develop mobile game in touch screen phones</li>
+                                    <li>Participated games: FarCry 2, CSI New York, Platinum Sudoku 2</li>
+                                </ul>
+                            </p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -144,7 +168,7 @@
                     <!-- Timeline Date -->
                     <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
                         <h4 class="h5 g-font-weight-300">SANGTAO Ltd.</h4>
-                        <h5 class="h6 g-font-weight-300 mb-0">2010 - 2012</h5>
+                        <h5 class="h6 g-font-weight-300 mb-0">03/2007 - 11/2007</h5>
                         <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
                     </div>
                     <!-- End Timeline Date -->
@@ -159,7 +183,13 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Web developer</h3>
-                            <p class="mb-0">Winter purslane courgette pumpkin quandong komatsuna fennel green bean cucumber. Pea cress potato sprouts wattle seed rutabaga.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Analyze and optimize database system</li>
+                                    <li>Design detail algorithms for programmers</li>
+                                    <li>Setup core servers for web-based projects</li>
+                                </ul>
+                            </p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->

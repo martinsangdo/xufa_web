@@ -64,7 +64,7 @@
                             <div class="col-lg-8">
                                 <!-- User Details -->
                                 <div class="d-flex align-items-center justify-content-sm-between g-mb-5">
-                                    <h2 class="g-font-weight-300 g-mr-10">Do-Thanh Sang (Martin)</h2>
+                                    <h2 class="g-font-weight-600 g-mr-10">Do-Thanh Sang (Martin)</h2>
                                     <ul class="list-inline mb-0">
                                         <li class="list-inline-item g-mx-2">
                                             <a class="u-icon-v1 u-icon-size--sm u-icon-slide-up--hover g-color-white g-bg-blue rounded-circle" href="https://www.linkedin.com/in/dtsang012/" target="_blank">

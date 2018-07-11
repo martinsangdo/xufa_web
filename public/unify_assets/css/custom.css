@@ -1,2 +1,3 @@
 /* Add here all your css styles (customizations) */
-h3 {font-weight:bold;}
+h3 {font-weight:bold !important;}
+.u-table--v1 ul {-webkit-padding-start: 20px;margin-bottom:0;}
