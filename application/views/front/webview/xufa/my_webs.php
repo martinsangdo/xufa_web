@@ -2,7 +2,7 @@
     <!-- Panel Header -->
     <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
         <h3 class="h6 mb-0">
-            <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> MY WEBSITES
+            <i class="icon-globe g-pos-rel g-top-1 g-mr-5"></i> MY WEBSITES
         </h3>
     </div>
     <!-- End Panel Header -->
@@ -26,7 +26,7 @@
                 </div>
                 <!-- End Timeline Dot -->
 
-                <article class="g-pos-rel g-bg-gray-light-v5 g-pa-30">
+                <article class="g-pos-rel g-bg-gray-light-v5 g-pa-10">
                     <!-- Timeline Arrow -->
                     <div class="g-hidden-sm-down u-triangle-inclusive-v1--right g-top-30 g-z-index-2">
                         <div class="u-triangle-inclusive-v1--right__back g-brd-gray-light-v5-right"></div>
@@ -36,11 +36,11 @@
                     </div>
                     <!-- End Timeline Arrow -->
 
-                    <header class="g-brd-bottom g-brd-gray-light-v4 g-pb-10 g-mb-25">
+                    <header class="g-brd-bottom g-brd-gray-light-v4 g-mb-10">
                         <h3 class="g-font-weight-300"><a href="http://boardblockchain.com" target="_blank">http://boardblockchain.com</a></h3>
                     </header>
 
-                    <p class="lead mb-0">Collection of latest news about blockchain tech, cryptocurrency trends over the world</p>
+                    <p class="mb-0">Collection of latest news about blockchain tech, cryptocurrency trends over the world</p>
                 </article>
             </div>
             <!-- End Timeline Content -->
@@ -64,7 +64,7 @@
                 </div>
                 <!-- End Timeline Dot -->
 
-                <article class="g-pos-rel g-bg-gray-light-v5 g-pa-30">
+                <article class="g-pos-rel g-bg-gray-light-v5 g-pa-10">
                     <!-- Timeline Arrow -->
                     <div class="g-hidden-sm-down u-triangle-inclusive-v1--right g-top-30 g-z-index-2">
                         <div class="u-triangle-inclusive-v1--right__back g-brd-gray-light-v5-right"></div>
@@ -74,11 +74,11 @@
                     </div>
                     <!-- End Timeline Arrow -->
 
-                    <header class="g-brd-bottom g-brd-gray-light-v3 g-pb-10 g-mb-25">
+                    <header class="g-brd-bottom g-brd-gray-light-v3 g-mb-10">
                         <h3 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com</a></h3>
                     </header>
 
-                    <p class="lead mb-0">Collection of latest news about all kinds of PC games, Xbox, etc.</p>
+                    <p class="mb-0">Collection of latest news about all kinds of PC games, Xbox, etc.</p>
                 </article>
             </div>
             <!-- End Timeline Content -->

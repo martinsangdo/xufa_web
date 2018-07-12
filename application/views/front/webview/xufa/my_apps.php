@@ -3,7 +3,7 @@
     <!-- Panel Header -->
     <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
         <h3 class="h6 mb-0">
-            <i class="icon-notebook g-pos-rel g-top-1 g-mr-5"></i> APPS MADE BY MYSELF
+            <i class="icon-screen-smartphone g-pos-rel g-top-1 g-mr-5"></i> APPS MADE BY MYSELF
         </h3>
     </div>
     <!-- End Panel Header -->
@@ -22,19 +22,19 @@
                              data-arrow-left-classes="fa fa-angle-left g-left-0 g-ml-20"
                              data-arrow-right-classes="fa fa-angle-right g-right-0 g-mr-20">
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/summit/5.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/summit/5.jpg"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/summit/1.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/summit/1.jpg"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/summit/4.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/summit/4.jpg"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/summit/3.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/summit/3.jpg"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/summit/2.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/summit/2.jpg"/>
                             </div>
                         </div>
                         <!-- Figure Info -->
@@ -78,19 +78,19 @@
                              data-arrow-left-classes="fa fa-angle-left g-left-0 g-ml-20"
                              data-arrow-right-classes="fa fa-angle-right g-right-0 g-mr-20">
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/crypto/1.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/crypto/1.png"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/crypto/2.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/crypto/2.png"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/crypto/3.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/crypto/3.png"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/crypto/4.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/crypto/4.png"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/crypto/5.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/crypto/5.png"/>
                             </div>
                         </div>
                         <!-- Figure Info -->
@@ -134,18 +134,18 @@
                              data-arrow-left-classes="fa fa-angle-left g-left-0 g-ml-20"
                              data-arrow-right-classes="fa fa-angle-right g-right-0 g-mr-20">
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/tanabata/1.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/tanabata/1.png"/>
                             </div>
 
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/tanabata/2.png"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/tanabata/2.png"/>
                             </div>
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/tanabata/3.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/tanabata/3.jpg"/>
                             </div>
 
                             <div class="js-slide">
-                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>/img/tanabata/4.jpg"/>
+                                <img class="img-fluid" src="<?php echo PUBLIC_FOLDER;?>img/tanabata/4.jpg"/>
                             </div>
                         </div>
                         <!-- Figure Info -->

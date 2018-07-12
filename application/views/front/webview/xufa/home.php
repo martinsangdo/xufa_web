@@ -10,12 +10,15 @@
     <link rel="canonical" href="http://sangdoprofile.com" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Martin SangDo Profile" />
+    <meta property="og:title" content="Martin SangDo Profile, mobile developer, blockchain developer, web full stack developer" />
     <meta property="og:url" content="http://sangdoprofile.com" />
-    <meta property="og:site_name" content="SangDo Profile" />
+    <meta property="og:site_name" content="Martin SangDo Profile" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Martin SangDo Profile" />
-
+    <meta name="keywords" content="Martin SangDo Profile, mobile developer, blockchain developer, web full stack developer" />
+    <meta name="description" content="Martin SangDo Profile, mobile developer, blockchain developer, web full stack developer" />
+    <meta name="author" content="Martin SangDo"/>
+    <meta name="copyright" content="Copyright © 2018 by sangdoprofile.com"/>
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico"/>
     <!-- Google Fonts -->
@@ -56,7 +59,7 @@
                             <div class="col-lg-4 g-mb-40 g-mb-0--lg">
                                 <!-- User Image -->
                                 <div class="g-mb-20">
-                                    <img class="img-fluid w-100" src="/public/unify_assets/img-temp/400x450/img5.jpg" alt="Martin SangDo Profile"/>
+                                    <img class="img-fluid w-100" src="<?php echo PUBLIC_FOLDER;?>img/profile.jpg" alt="Martin SangDo Profile"/>
                                 </div>
                                 <!-- User Image -->
                             </div>
@@ -88,7 +91,7 @@
                                         <i class="icon-location-pin g-pos-rel g-top-1 g-color-google-plus g-mr-5"></i> HoChiMinh city, Vietnam
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:martin.sangdo@gmail.com?subject=Hello Sang, I send from your site">Email me</a>
+                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:dtsang012@yahoo.com?subject=Hello Sang, I reach you from the site">Email me</a>
                                     </li>
                                     <li class="list-inline-item g-mr-20">
                                         <i class="icon-social-skype g-pos-rel g-top-1 g-color-aqua g-mr-5"></i> stl.sang.do
@@ -240,7 +243,7 @@
                                 <!-- Panel Header -->
                                 <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
-                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> KNOW-HOW
+                                        <i class="icon-docs g-pos-rel g-top-1 g-mr-5"></i> KNOW-HOW
                                     </h3>
                                 </div>
                                 <!-- End Panel Header -->
@@ -248,38 +251,16 @@
                                 <!-- Panel Body -->
                                 <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
                                     <ul class="list-unstyled">
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-facebook g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-facebook"></i></a>
-                                            <a class="g-color-facebook" href="#!">77johndoe</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-twitter g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-twitter"></i></a>
-                                            <a class="g-color-twitter" href="#!">john-doe1977</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-darkblue g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-paypal"></i></a>
-                                            <a class="g-color-darkblue g-color-darkblue--hover" href="#!">john.doe@htmlstream.com</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-lightred g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-google-plus"></i></a>
-                                            <a class="g-color-lightred g-color-lightred--hover" href="#!">john_doe</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-black g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-github"></i></a>
-                                            <a class="g-color-black g-color-black--hover" href="#!">john.doe.github</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-skype g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-skype"></i></a>
-                                            <a class="g-color-skype" href="#!">john_doe_723</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-linkedin g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-linkedin"></i></a>
-                                            <a class="g-color-linkedin" href="#!">john.doe77</a>
-                                        </li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <a class="u-icon-v3 u-icon-size--xs g-bg-lightred g-color-white rounded-circle g-mr-15" href="#!"><i class="fa fa-envelope"></i></a>
-                                            <a class="g-color-lightred g-color-lightred--hover" href="#!">john.doe@htmlstream.com</a>
-                                        </li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / Scrum</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Redmine / JIRA</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Cloud</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Drive API</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Online Payment Gateway</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">UML / Astah</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">GraphQL</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Turn server, video call P2P</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">CentOS / Linux</li>
                                     </ul>
                                 </div>
                                 <!-- End Panel Body -->
@@ -294,7 +275,7 @@
                                 <!-- Panel Header -->
                                 <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                                     <h3 class="h6 mb-0">
-                                        <i class="icon-directions g-pos-rel g-top-1 g-mr-5"></i> FAVORITE SITES
+                                        <i class="icon-like g-pos-rel g-top-1 g-mr-5"></i> FAVORITE SITES
                                     </h3>
                                 </div>
                                 <!-- End Panel Header -->
@@ -303,36 +284,34 @@
                                 <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
                                     <ul class="list-unstyled">
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-facebook g-color-facebook g-pos-rel g-top-1 g-mr-10"></i> Facebook</span>
-                                            <a class="g-color-facebook" href="#!">77johndoe</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-youtube g-color-facebook g-pos-rel g-top-1 g-mr-10"></i> Youtube</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-twitter g-color-twitter g-pos-rel g-top-1 g-mr-10"></i> Twitter</span>
-                                            <a class="g-color-twitter" href="#!">john-doe1977</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-pinterest g-color-twitter g-pos-rel g-top-1 g-mr-10"></i> Pinterest</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-paypal g-color-darkblue g-pos-rel g-top-1 g-mr-10"></i> PayPal</span>
-                                            <a class="g-color-darkblue g-color-darkblue--hover" href="#!">john.doe@htmlstream.com</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-etsy g-color-darkblue g-pos-rel g-top-1 g-mr-10"></i> Etsy</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-google g-color-lightred g-pos-rel g-top-1 g-mr-10"></i> Google Plus</span>
-                                            <a class="g-color-lightred g-color-lightred--hover" href="#!">john_doe</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-slideshare g-color-lightred g-pos-rel g-top-1 g-mr-10"></i> Slideshare</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-github g-color-black g-pos-rel g-top-1 g-mr-10"></i> Github</span>
-                                            <a class="g-color-black g-color-black--hover" href="#!">john.doe.github</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-facebook g-color-black g-pos-rel g-top-1 g-mr-10"></i> Facebook</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-skype g-color-skype g-pos-rel g-top-1 g-mr-10"></i> Skype</span>
-                                            <a class="g-color-skype" href="#!">john_doe_723</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-medium g-color-skype g-pos-rel g-top-1 g-mr-10"></i> Medium</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-linkedin g-color-linkedin g-pos-rel g-top-1 g-mr-10"></i> Linkedin</span>
-                                            <a class="g-color-linkedin" href="#!">john.doe77</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-quora g-color-linkedin g-pos-rel g-top-1 g-mr-10"></i> Quora</span>
                                         </li>
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
-                                            <span class="text-nowrap g-mr-10"><i class="fa fa-envelope g-color-lightred g-pos-rel g-top-1 g-mr-10"></i> Gmail</span>
-                                            <a class="g-color-lightred g-color-lightred--hover" href="#!">john.doe@htmlstream.com</a>
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-tumblr g-color-lightred g-pos-rel g-top-1 g-mr-10"></i> Tumblr</span>
+                                        </li>
+                                        <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-wikipedia-w g-color-linkedin g-pos-rel g-top-1 g-mr-10"></i> Wikipedia</span>
+                                        </li>
+                                        <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
+                                            <span class="text-nowrap g-mr-10"><i class="fa fa-stack-overflow g-color-lightred g-pos-rel g-top-1 g-mr-10"></i> Stack Overflow</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -374,11 +353,11 @@
                     <!-- End Overall Statistics -->
 
                     <!-- My goal Timeline -->
-                    <div class="card border-0 rounded-0 g-mb-40 g-mt-20">
+                    <div class="card border-0 rounded-0 g-mt-20">
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-graduation g-pos-rel g-top-1 g-mr-5"></i> MY GOALS
+                                <i class="icon-target g-pos-rel g-top-1 g-mr-5"></i> MY GOALS
                             </h3>
                         </div>
                         <!-- End Panel Header -->
@@ -428,7 +407,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">Senior Blockchain Developer</h3>
-                                                <p class="mb-0">I want to do exciting projects involving blockchain & crypto-data technique.</p>
+                                                <p class="mb-0">I am researching to do exciting projects involving blockchain</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -464,61 +443,38 @@
                     </div>
                     <!-- End My Goal Timeline -->
 
-                    <div class="card border-0 g-mb-20">
+                    <div class="card border-0">
                         <!-- Panel Header -->
                         <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
                             <h3 class="h6 mb-0">
-                                <i class="icon-layers g-pos-rel g-top-1 g-mr-5"></i> PERSONALITY
+                                <i class="icon-emotsmile g-pos-rel g-top-1 g-mr-5"></i> PERSONALITY
                             </h3>
                         </div>
                         <!-- End Panel Header -->
                     </div>
                     <!-- User Skills -->
                     <div class="d-flex flex-wrap text-center">
-                        <!-- Counter Pie Chart -->
                         <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-purple g-mb-5" data-circles-value="54" data-circles-max-value="100" data-circles-bg-color="#d3b6c6" data-circles-fg-color="#9b6bcc" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Consulting</h4>
+                            <h4 class="h6 g-font-weight-300">RESPONSIBILITY</h4>
                         </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
                         <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-blue g-mb-5" data-circles-value="72" data-circles-max-value="100" data-circles-bg-color="#bee3f7" data-circles-fg-color="#3498db" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Branding</h4>
+                            <h4 class="h6 g-font-weight-300">MULTICULTURAL SENSITIVITY</h4>
                         </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
                         <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-lightred g-mb-5" data-circles-value="81" data-circles-max-value="100" data-circles-bg-color="#ffc2bb" data-circles-fg-color="#e74c3c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Copywriting</h4>
+                            <h4 class="h6 g-font-weight-300">SELF MOTIVATED</h4>
                         </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
                         <div class="g-mr-40 g-mb-20 g-mb-0--xl">
-                            <div class="js-pie g-color-primary g-mb-5" data-circles-value="83" data-circles-max-value="100" data-circles-bg-color="#c9ff97" data-circles-fg-color="#72c02c" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Marketing</h4>
+                            <h4 class="h6 g-font-weight-300">TIME MANAGEMENT</h4>
                         </div>
-                        <!-- End Counter Pie Chart -->
-
-                        <!-- Counter Pie Chart -->
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <h4 class="h6 g-font-weight-300">TEAMWORK</h4>
+                        </div>
+                        <div class="g-mr-40 g-mb-20 g-mb-0--xl">
+                            <h4 class="h6 g-font-weight-300">PROBLEM SOLVING</h4>
+                        </div>
                         <div class="g-mb-20 g-mb-0--lg">
-                            <div class="js-pie g-mb-5" data-circles-value="92" data-circles-max-value="100" data-circles-bg-color="#eeeeee" data-circles-fg-color="#111111" data-circles-radius="30" data-circles-stroke-width="3" data-circles-additional-text="%" data-circles-duration="2000"
-                                 data-circles-scroll-animate="true" data-circles-font-size="14">
-                            </div>
-                            <h4 class="h6 g-font-weight-300">Management</h4>
+                            <h4 class="h6 g-font-weight-300">TIME IS GOLD</h4>
                         </div>
-                        <!-- End Counter Pie Chart -->
                     </div>
                     <!-- End User Skills -->
 
