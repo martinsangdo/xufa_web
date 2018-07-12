@@ -1,3 +1,7 @@
 /* Add here all your css styles (customizations) */
 h3 {font-weight:bold !important;}
 .u-table--v1 ul {-webkit-padding-start: 20px;margin-bottom:0;}
+.game_thumb {width:120px;height:150px;}
+.ul_games {list-style-type: none;}
+.ul_games li {float:left; margin:10px;}
+.ul_games .title {text-align:center;}

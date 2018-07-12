@@ -91,7 +91,7 @@
                             <h3 class="h4 g-font-weight-300">Project Leader</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>Manage/train designers to finish tasks in projects</li>
+                                    <li>Manage/train designers to finish tasks in project</li>
                                     <li>Develop Android application</li>
                                     <li>Develop EPUB web-based editor. People are able to make their own fixed-style layout e-books online</li>
                                 </ul>

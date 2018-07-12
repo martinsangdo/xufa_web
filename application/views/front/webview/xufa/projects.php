@@ -54,8 +54,25 @@
                     <td class="align-middle">
                         <ul>
                             <li>A mobile app (Android/iOS) provide platform to exchange questions and answers between users and doctors</li>
-                            <li>Users save their medial records by app in Cloud server</li>
+                            <li>Users upload their medial records through app to Cloud server</li>
                             <li>Users can make video call to any doctor at anytime, it is definitely free based on Peer-to-peer protocol</li>
+                        </ul>
+                        <ul class="row list-inline g-py-20 g-ma-0">
+                            <li class="col">
+                                <a class="u-icon-v1 g-color-gray-dark-v5 g-bg-transparent g-color-blue--hover" href="http://alodoctor.com.vn" target="_blank">
+                                    <i class="fa fa-internet-explorer"></i>
+                                </a>
+                            </li>
+                            <li class="col">
+                                <a class="u-icon-v1 u-icon-size--sm g-color-gray-dark-v5 g-bg-transparent g-color-green--hover" href="https://play.google.com/store/apps/details?id=vn.engma.e_clinic_android" target="_blank">
+                                    <i class="fa fa-android"></i>
+                                </a>
+                            </li>
+                            <li class="col">
+                                <a class="u-icon-v1 u-icon-size--sm g-color-gray-dark-v5 g-bg-transparent g-color-blue--hover" href="https://itunes.apple.com/us/app/alodoctor-theo-d%C3%B5i-s%E1%BB%A9c-kh%E1%BB%8Fe-online/id1131146019?mt=8" target="_blank">
+                                    <i class="hs-admin-apple"></i>
+                                </a>
+                            </li>
                         </ul>
                     </td>
                     <td class="align-middle">
@@ -74,7 +91,79 @@
                         08/2015 - 10/2015
                     </td>
                 </tr>
+                <tr>
+                    <td class="align-middle text-nowrap text-center">
+                        NSOFT Ltd.
+                    </td>
+                    <td class="align-middle">Osobee</td>
+                    <td class="align-middle">
+                        <ul>
+                            <li>Osobee.com is a complete system including SNS & Editor that making e-book following EPUB-3® specification [IDBF]</li>
+                            <li>SNS is connected with Facebook/Twitter in order to spread out the content</li>
+                            <li>Project has Android and iOS apps</li>
+                        </ul>
+                    </td>
+                    <td class="align-middle">
+                        02/2013 - 12/2014
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle text-nowrap text-center">
+                        UZEN Ltd.
+                    </td>
+                    <td class="align-middle">Kpoptube</td>
+                    <td class="align-middle">
+                        <ul>
+                            <li>An website collecting thousands of Kpop videos from Youtube, categorizes them into beautiful theme</li>
+                            <li>Website integrates Facebook SNS to make big fan community</li>
+                            <li>Project has Android and iOS apps</li>
+                        </ul>
+                    </td>
+                    <td class="align-middle">
+                        07/2011 - 01/2013
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle text-nowrap text-center">
+                        GAMELOFT Ltd.
+                    </td>
+                    <td class="align-middle">Mobile games</td>
+                    <td class="align-middle">
+                        <ul class="ul_games">
+                            <li>
+                                <img src="<?php echo PUBLIC_FOLDER; ?>img/games/farcry.jpg" class="game_thumb"/>
+                                <div class="title">Far Cry 2</div>
+                            </li>
+                            <li>
+                                <img src="<?php echo PUBLIC_FOLDER; ?>img/games/csi.jpg" class="game_thumb"/>
+                                <div class="title">CSI: NewYork</div>
+                            </li>
+                            <li>
+                                <img src="<?php echo PUBLIC_FOLDER; ?>img/games/sudoku.jpg" class="game_thumb"/>
+                                <div class="title">Sudoku</div>
+                            </li>
+                        </ul>
 
+                    </td>
+                    <td class="align-middle">
+                        12/2007 - 06/2009
+                    </td>
+                </tr>
+                <tr>
+                    <td class="align-middle text-nowrap text-center">
+                        SANGTAO Ltd.
+                    </td>
+                    <td class="align-middle">POCKET MOBILE E-COMMERCE</td>
+                    <td class="align-middle">
+                        <ul>
+                            <li>An e-commerce WAP-site for Docomo phones</li>
+                            <li>A system of online shopping where user can find and buy Japan products</li>
+                        </ul>
+                    </td>
+                    <td class="align-middle">
+                        03/2007 - 11/2007
+                    </td>
+                </tr>
                 </tbody>
             </table>
         </div>
