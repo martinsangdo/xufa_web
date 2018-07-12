@@ -20,7 +20,7 @@
     <meta name="author" content="Martin SangDo"/>
     <meta name="copyright" content="Copyright © 2018 by sangdoprofile.com"/>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="shortcut icon" href="<?php echo PUBLIC_FOLDER;?>img/favicon.ico"/>
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"/>
     <!-- CSS Global Compulsory -->
