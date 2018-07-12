@@ -233,7 +233,7 @@
                     <?php require_once 'my_webs.php'; ?>
 
                     <!-- User Accounts -->
-                    <div class="row g-mt-40">
+                    <div class="row g-mt-20">
                         <!-- User Accounts (Option 1) -->
                         <div class="col-md-6">
                             <div class="card border-0 rounded-0">
@@ -427,7 +427,7 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Blockchain Technician</h3>
+                                                <h3 class="h4 g-font-weight-300">Senior Blockchain Developer</h3>
                                                 <p class="mb-0">I want to do exciting projects involving blockchain & crypto-data technique.</p>
                                             </article>
                                         </div>
