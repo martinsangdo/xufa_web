@@ -1,4 +1,4 @@
-<div class="card border-0 rounded-0 g-mb-40">
+<div class="card border-0 rounded-0 g-mb-10">
     <!-- Panel Header -->
     <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
         <h3 class="h6 mb-0">
@@ -8,7 +8,7 @@
     <!-- End Panel Header -->
 
     <!-- Panel Body -->
-    <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-350 g-pa-0">
+    <div class="card-block u-info-v1-1 g-pa-0">
         <ul class="row u-timeline-v2-wrap list-unstyled">
             <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
                 <div class="row">

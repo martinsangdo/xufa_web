@@ -249,7 +249,7 @@
                                 <!-- End Panel Header -->
 
                                 <!-- Panel Body -->
-                                <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                                <div class="card-block u-info-v1-1 g-pa-0">
                                     <ul class="list-unstyled">
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / Scrum</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Redmine / JIRA</li>
@@ -281,7 +281,7 @@
                                 <!-- End Panel Header -->
 
                                 <!-- Panel Body -->
-                                <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                                <div class="card-block u-info-v1-1 g-pa-0">
                                     <ul class="list-unstyled">
                                         <li class="d-flex justify-content-between g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">
                                             <span class="text-nowrap g-mr-10"><i class="fa fa-youtube g-color-facebook g-pos-rel g-top-1 g-mr-10"></i> Youtube</span>
@@ -363,7 +363,7 @@
                         <!-- End Panel Header -->
 
                         <!-- Panel Body -->
-                        <div class="js-scrollbar card-block u-info-v1-1 g-bg-white-gradient-v1--after g-height-300 g-pa-0">
+                        <div class="card-block u-info-v1-1 g-pa-0">
                             <ul class="row u-timeline-v2-wrap list-unstyled">
                                 <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
                                     <div class="row">
