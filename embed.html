@@ -8,9 +8,19 @@
     <meta name="robots" content="noindex,follow"/>
     <meta name="author" content="Martin SangDo"/>
     <meta http-equiv="Cache-control" content="public"/>
-    <title>Blockchain & cryptocurrency latest news</title>
+    <title>
+        <?php if ($_SERVER['HTTP_HOST'] == 'www.boardblockchain.com' || $_SERVER['HTTP_HOST'] == 'boardblockchain.com'){ ?>
+        Blockchain & cryptocurrency latest news
+        <?php } else if ($_SERVER['HTTP_HOST'] == 'www.sangdoprofile.com' || $_SERVER['HTTP_HOST'] == 'sangdoprofile.com'){ ?>
+        Martin Sangdo profile
+        <?php } ?>
+    </title>
 
 </head>
 <body style="margin:0;">
+<?php if ($_SERVER['HTTP_HOST'] == 'www.boardblockchain.com' || $_SERVER['HTTP_HOST'] == 'boardblockchain.com'){ ?>
 <iframe src="http://boardblockchain.gamereviewnews.com" width="100%" height="100%" frameBorder="0"/>
+<?php } else if ($_SERVER['HTTP_HOST'] == 'www.sangdoprofile.com' || $_SERVER['HTTP_HOST'] == 'sangdoprofile.com'){ ?>
+<iframe src="http://sangdoprofile.gamereviewnews.com" width="100%" height="100%" frameBorder="0"/>
+<?php } ?>
 </body></html>

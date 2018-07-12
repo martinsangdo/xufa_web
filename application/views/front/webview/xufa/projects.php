@@ -29,7 +29,7 @@
                     <td class="align-middle">
                         <ul>
                             <li>SNS is a social network Android app, architecture is serverless</li>
-                            <li>Users can create private groups and share posts/resources privately inside each group</li>
+                            <li>Users can create unlimited groups and share posts/resources privately inside each group. Members can chat in real-time</li>
                         </ul>
                     </td>
                     <td class="align-middle">
@@ -40,7 +40,7 @@
                     <td class="align-middle">SWP</td>
                     <td class="align-middle">
                         <ul>
-                            <li>An Android app connects to Laser sensors to detect distance between user and objects</li>
+                            <li>An Android app connects to Laser sensors to detect distance between user and static objects such as cars, house, ...</li>
                             <li>Detect direction (to left/right) of user while moving</li>
                             <li>App connects to any bluetooth devices including GPS, bi-directional sensors</li>
                         </ul>
@@ -53,11 +53,11 @@
                     <td class="align-middle">AloDoctor</td>
                     <td class="align-middle">
                         <ul>
-                            <li>A mobile app (Android/iOS) provide platform to exchange questions and answers between users and doctors</li>
-                            <li>Users upload their medial records through app to Cloud server</li>
+                            <li>A mobile app (Android/iOS) provides a place to exchange questions and answers between users and reliable doctors without any fee</li>
+                            <li>Users upload their medial records through app to Cloud server permanently</li>
                             <li>Users can make video call to any doctor at anytime, it is definitely free based on Peer-to-peer protocol</li>
                         </ul>
-                        <ul class="row list-inline g-py-20 g-ma-0">
+                        <ul class="row list-inline g-py-10 g-ma-0">
                             <li class="col">
                                 <a class="u-icon-v1 g-color-gray-dark-v5 g-bg-transparent g-color-blue--hover" href="http://alodoctor.com.vn" target="_blank">
                                     <i class="fa fa-internet-explorer"></i>
@@ -83,8 +83,8 @@
                     <td class="align-middle">CVL</td>
                     <td class="align-middle">
                         <ul>
-                            <li>An Android app connects to bluetooth GPS devices then determines where is current position, indicates it in screen</li>
-                            <li>There are some pre-made maps installed in app, when user moves in that selected coordinate, app notifies it right away</li>
+                            <li>An Android app connects to bluetooth GPS devices then determines current position of user, indicates it in screen map</li>
+                            <li>There are some pre-made maps installed inside app, when user moves into that selected coordinates, app notifies it right away</li>
                         </ul>
                     </td>
                     <td class="align-middle">
@@ -98,7 +98,7 @@
                     <td class="align-middle">Osobee</td>
                     <td class="align-middle">
                         <ul>
-                            <li>Osobee.com is a complete system including SNS & Editor that making e-book following EPUB-3® specification [IDBF]</li>
+                            <li>Osobee.com is a complete system including primary SNS functions & Editor that making e-book following EPUB-3® specification [IDBF]</li>
                             <li>SNS is connected with Facebook/Twitter in order to spread out the content</li>
                             <li>Project has Android and iOS apps</li>
                         </ul>
@@ -115,7 +115,7 @@
                     <td class="align-middle">
                         <ul>
                             <li>An website collecting thousands of Kpop videos from Youtube, categorizes them into beautiful theme</li>
-                            <li>Website integrates Facebook SNS to make big fan community</li>
+                            <li>Each video belongs to each bands where user can follow. Basic SNS functions like comment, share, like, ... provided</li>
                             <li>Project has Android and iOS apps</li>
                         </ul>
                     </td>
@@ -157,7 +157,7 @@
                     <td class="align-middle">
                         <ul>
                             <li>An e-commerce WAP-site for Docomo phones</li>
-                            <li>A system of online shopping where user can find and buy Japan products</li>
+                            <li>An online shopping system where user can find and buy Japan products</li>
                         </ul>
                     </td>
                     <td class="align-middle">

@@ -29,7 +29,8 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Freelancer</h3>
-                            <p class="mb-0">I am willing to take remotely jobs, average 40 hours weekly. I can do full stack web and Android/iOS app.</p>
+                            <p class="mb-0">I am willing to take remote international jobs, minimum 40 hours weekly. I can do full stack web and Android/iOS app.</p>
+                            <p class="mb-0">I had done many remote part-time projects, so I am very trustworthy</p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -58,7 +59,7 @@
                             <p class="mb-0">
                                 <ul>
                                     <li>Manage/train/interview members including developers & testers</li>
-                                    <li>Estimate & supervise to finish projects successfully</li>
+                                    <li>Estimate & supervise whole team to accomplish projects</li>
                                     <li>Research cutting edge techniques for all projects & improve productivity of team</li>
                                     <li>Design UML</li>
                                     <li>Our clients are mainly from Japan, Singapore</li>
@@ -91,7 +92,7 @@
                             <h3 class="h4 g-font-weight-300">Project Leader</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>Manage/train designers to finish tasks in project</li>
+                                    <li>Manage/train designers to accomplish tasks</li>
                                     <li>Develop Android application</li>
                                     <li>Develop EPUB web-based editor. People are able to make their own fixed-style layout e-books online</li>
                                 </ul>
@@ -156,7 +157,6 @@
                             <p class="mb-0">
                                 <ul>
                                     <li>Develop mobile games in touch screen phones</li>
-                                    <li>Participated games: FarCry 2, CSI New York, Platinum Sudoku 2</li>
                                 </ul>
                             </p>
                         </article>

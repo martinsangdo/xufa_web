@@ -40,7 +40,7 @@
                         <h3 class="g-font-weight-300"><a href="http://boardblockchain.com" target="_blank">http://boardblockchain.com</a></h3>
                     </header>
 
-                    <p class="mb-0">Collection of latest news about blockchain tech, cryptocurrency trends over the world</p>
+                    <p class="mb-0">Collection of latest breaking news about blockchain activities, cryptocurrency tech over the world</p>
                 </article>
             </div>
             <!-- End Timeline Content -->

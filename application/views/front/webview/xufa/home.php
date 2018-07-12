@@ -383,7 +383,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">CEO / PMP</h3>
-                                                <p class="mb-0">I am going to establish my own IT company.</p>
+                                                <p class="mb-0">I am going to establish my own IT company</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -407,7 +407,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">Senior Blockchain Developer</h3>
-                                                <p class="mb-0">I am researching to do exciting projects involving blockchain</p>
+                                                <p class="mb-0">I am researching to do exciting projects involving blockchain fields</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -431,7 +431,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">Project Leader</h3>
-                                                <p class="mb-0">Finally I got much experience to manage projects & team members.</p>
+                                                <p class="mb-0">Finally I got much experience to manage projects & team members</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
