@@ -255,7 +255,7 @@
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Redmine / JIRA</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Cloud</li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Drive API</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Drive/Firebase/Firestore API</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Online Payment Gateway</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">UML / Astah</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Turn server, video call P2P</li>

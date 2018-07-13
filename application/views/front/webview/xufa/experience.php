@@ -30,7 +30,7 @@
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Freelancer</h3>
                             <p class="mb-0">I am willing to take remote international jobs, minimum 40 hours weekly. I can do full stack web and Android/iOS app.</p>
-                            <p class="mb-0">I had done many remote part-time projects, so I am very trustworthy</p>
+                            <p class="mb-0">I had done many remote part-time projects for Singapore/US/S.Korea clients, so I am very trustworthy.</p>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
@@ -61,7 +61,8 @@
                                     <li>Manage/train/interview members including developers & testers</li>
                                     <li>Estimate & supervise whole team to accomplish projects</li>
                                     <li>Research cutting edge techniques for all projects & improve productivity of team</li>
-                                    <li>Design UML</li>
+                                    <li>Design UML, write technical documentations</li>
+                                    <li>Deploy servers in production environment</li>
                                     <li>Our clients are mainly from Japan, Singapore</li>
                                 </ul>
                             </p>
