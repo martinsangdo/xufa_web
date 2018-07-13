@@ -29,8 +29,13 @@
 
                         <article class="g-pa-10--md">
                             <h3 class="h4 g-font-weight-300">Freelancer</h3>
-                            <p class="mb-0">I am willing to take remote international jobs, minimum 40 hours weekly. I can do full stack web and Android/iOS app.</p>
-                            <p class="mb-0">I had done many remote part-time projects for Singapore/US/S.Korea clients, so I am very trustworthy.</p>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>I prefer remote international jobs, minimum 40 hours weekly. I can do full stack web and mobile</li>
+                                    <li>I am able to develop Android/iOS apps at the same time using React Native, so you don't need to hire both Android/iOS developers</li>
+                                    <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
+                                    <li>I had done many remote part-time projects for Singapore / US / S.Korea clients, so I am very trustworthy</li>
+                                </ul>
                         </article>
                     </div>
                     <!-- End Timeline Content -->
