@@ -107,7 +107,7 @@
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
                                     I am carrying 10 years of experience in Software Industry.
-                                    Since last 2 years I was working in position as Technical Manager at ENGMA company. I'm currently doing contract/freelance jobs.
+                                    Since last 2 years I was working in position as Technical Manager at ENGMA company. I'm currently researching blockchain technique.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -252,9 +252,9 @@
                                 <div class="card-block u-info-v1-1 g-pa-0">
                                     <ul class="list-unstyled">
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / Scrum</li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Redmine / JIRA</li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS</li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Cloud</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Socket IO</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS / Google Cloud</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Docker</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Drive/Firebase/Firestore API</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Online Payment Gateway</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">UML / Astah</li>
