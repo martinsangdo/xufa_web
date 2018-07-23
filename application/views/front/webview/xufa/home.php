@@ -100,14 +100,11 @@
                                 <!-- End User Info -->
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
-
-
-
-                                <p class="">
+                                <p>
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
                                     I am carrying 10 years of experience in Software Industry.
-                                    Since last 2 years I was working in position as Technical Manager at ENGMA company. I'm currently researching blockchain technique.
+                                    Since last 2 years I was in position as Technical Manager at ENGMA company. I'm currently working in a blockchain project.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -383,7 +380,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">CEO / PMP</h3>
-                                                <p class="mb-0">I am going to establish my own IT company</p>
+                                                <p class="mb-0">I am going to establish my own IT company or to be a significant co-founder in certain project</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -473,7 +470,7 @@
                             <h4 class="h6 g-font-weight-300">PROBLEM SOLVING</h4>
                         </div>
                         <div class="g-mb-20 g-mb-0--lg">
-                            <h4 class="h6 g-font-weight-300">TIME IS GOLD</h4>
+                            <h4 class="h6 g-font-weight-300">SELF EDUCATED</h4>
                         </div>
                     </div>
                     <!-- End User Skills -->
