@@ -103,8 +103,7 @@
                                 <p>
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
-                                    I am carrying 10 years of experience in Software Industry.
-                                    Since last 2 years I was in position as Technical Manager at ENGMA company. I'm currently working in a blockchain project.
+                                    I am carrying 10 years of experience in IT field. Since last 2 years I was in position as Technical Manager at ENGMA company. I'm currently working in a blockchain project which going to launch an ICO in next year.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">

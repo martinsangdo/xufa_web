@@ -35,6 +35,7 @@
                                     <li>I am able to develop Android/iOS apps at the same time using React Native, so you don't need to hire both Android/iOS developers</li>
                                     <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
                                     <li>I had done many remote part-time projects for Singapore / US / S.Korea clients, so I am very trustworthy</li>
+                                    <li>I know how to make Smart Contract by Solidity/Truffle. I made my own crypto token and wallet to trade it.</li>
                                 </ul>
                         </article>
                     </div>
