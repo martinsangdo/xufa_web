@@ -28,10 +28,10 @@
                         <!-- End Timeline Dot -->
 
                         <article class="g-pa-10--md">
-                            <h3 class="h4 g-font-weight-300">Freelancer</h3>
+                            <h3 class="h4 g-font-weight-300">Full-time Freelancer</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>I prefer remote international jobs, minimum 40 hours weekly. I can do full stack web and mobile</li>
+                                    <li>I prefer remote international jobs, minimum 40 hours weekly. I can do full stack web and mobile as well</li>
                                     <li>I am able to develop Android/iOS apps at the same time using React Native, so you don't need to hire both Android/iOS developers</li>
                                     <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
                                     <li>I had done many remote part-time projects for Singapore / US / S.Korea clients, so I am very trustworthy</li>
