@@ -56,6 +56,7 @@
                             <li>A mobile app (Android/iOS) provides a place to exchange questions and answers between users and reliable doctors without any fee</li>
                             <li>Users upload their medial records through app to Cloud server permanently</li>
                             <li>Users can make video call to any doctor at anytime, it is definitely free based on Peer-to-peer protocol</li>
+                            <li>Referral links are belows:</li>
                         </ul>
                         <ul class="row list-inline g-py-10 g-ma-0">
                             <li class="col">

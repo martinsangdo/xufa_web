@@ -14,7 +14,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-34487-9_1">1) Centroid Neural Network with Simulated Annealing and Its Application to Color Image Segmentation</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-34487-9_1">1) Centroid Neural Network with Simulated Annealing and Its Application to Color Image Segmentation <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Nov. 2012</span>
                     </div>
                     <i>Lecture Notes in Computer Science (LNCS), Volume 7665, pp 1-8</i>
@@ -30,7 +30,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-33478-8_73">2) Color Image Segmentation Using Centroid Neural Network</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-33478-8_73">2) Color Image Segmentation Using Centroid Neural Network <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Oct. 2012</span>
                     </div>
                     <i>Lecture Notes in Computer Science (LNCS), Volume 7530, pp 588-595</i>
@@ -46,7 +46,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-16773-7_35">3) Financial Time Series Prediction in Cooperating with Event Knowledge : A Fuzzy Approach</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-16773-7_35">3) Financial Time Series Prediction in Cooperating with Event Knowledge : A Fuzzy Approach <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Nov. 2010</span>
                     </div>
                     <i>Lecture Notes in Computer Science (LNCS), Volume 6438, Springer-Verlag Berlin, pp 406-417</i>
@@ -62,7 +62,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://ieeexplore.ieee.org/document/5615505">4) Standard Additive Model in Data Mining</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://ieeexplore.ieee.org/document/5615505">4) Standard Additive Model in Data Mining <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Oct. 2010</span>
                     </div>
                     <i>International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery (CyberC)</i>
@@ -78,7 +78,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/5480374">5) Intensifying the Performance of Nonlinearity Approximation by an Optimal Fuzzy System</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/5480374">5) Intensifying the Performance of Nonlinearity Approximation by an Optimal Fuzzy System <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Apr. 2010</span>
                     </div>
                     <i>International Conference on Information Science and Applications (ICISA)</i>
@@ -94,7 +94,7 @@
             <li class="media g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-black-left rounded g-pa-20 g-mb-10">
                 <div class="media-body">
                     <div class="d-flex justify-content-between">
-                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-12101-2_29">6) Standard Additive Fuzzy System for Stock Price Forecasting</a></h5>
+                        <h5 class="h6 g-font-weight-600 g-color-black"><a target="_blank" href="https://link.springer.com/chapter/10.1007/978-3-642-12101-2_29">6) Standard Additive Fuzzy System for Stock Price Forecasting <i class="icon-arrow-right-circle"></i></a></h5>
                         <span class="small text-nowrap g-color-blue">Mar. 2010</span>
                     </div>
                     <i>Lecture Notes in Computer Science (LNCS), Volume 5991, pp 279-288</i>

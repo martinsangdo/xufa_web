@@ -91,7 +91,7 @@
                                         <i class="icon-location-pin g-pos-rel g-top-1 g-color-google-plus g-mr-5"></i> HoChiMinh city, Vietnam
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:dtsang012@yahoo.com?subject=Hello Sang, I reach you from the site">Email me</a>
+                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:dtsang012@yahoo.com?subject=Hello Sang, I reach you from the site">Click here to mail me!</a>
                                     </li>
                                     <li class="list-inline-item g-mr-20">
                                         <i class="icon-social-skype g-pos-rel g-top-1 g-color-aqua g-mr-5"></i> stl.sang.do
@@ -250,7 +250,7 @@
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / Scrum</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Socket IO</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS / Google Cloud</li>
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Docker</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">PMP</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Google Drive/Firebase/Firestore API</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Online Payment Gateway</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">UML / Astah</li>
@@ -365,7 +365,7 @@
                                     <div class="row">
                                         <!-- Timeline Date -->
                                         <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                                            <h5 class="h6 g-font-weight-300 mb-0">2020</h5>
+                                            <h5 class="h6 g-font-weight-300 mb-0">2021</h5>
                                         </div>
                                         <!-- End Timeline Date -->
 

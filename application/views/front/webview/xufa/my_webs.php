@@ -37,7 +37,7 @@
                     <!-- End Timeline Arrow -->
 
                     <header class="g-brd-bottom g-brd-gray-light-v4 g-mb-10">
-                        <h3 class="g-font-weight-300"><a href="http://boardblockchain.com" target="_blank">http://boardblockchain.com</a></h3>
+                        <h5 class="g-font-weight-300"><a href="http://boardblockchain.com" target="_blank">http://boardblockchain.com <i class="icon-arrow-right-circle"></i></a></h5>
                     </header>
 
                     <p class="mb-0">Collection of latest breaking news about blockchain activities, cryptocurrency tech over the world</p>
@@ -75,7 +75,7 @@
                     <!-- End Timeline Arrow -->
 
                     <header class="g-brd-bottom g-brd-gray-light-v3 g-mb-10">
-                        <h3 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com</a></h3>
+                        <h5 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com <i class="icon-arrow-right-circle"></i></a></h5>
                     </header>
 
                     <p class="mb-0">Collection of latest news about all kinds of PC games, Xbox, etc.</p>
