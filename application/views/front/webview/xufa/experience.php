@@ -31,6 +31,7 @@
                             <h3 class="h4 g-font-weight-300">Full-time Freelancer</h3>
                             <p class="mb-0">
                                 <ul>
+                                <li>I can work at your office in case the location is not too far and YOU OFFER VERY ATTRACTIVE BENEFIT.</li>
                                     <li>I can do full stack web and mobile as well. I prefer remote international jobs, minimum 40 hours weekly.</li>
                                     <li>I am able to develop Android/iOS apps at the same time using React Native to reduce 50% of your cost and time</li>
                                     <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
