@@ -31,12 +31,18 @@
                             <h3 class="h4 g-font-weight-300">Full-time Freelancer</h3>
                             <p class="mb-0">
                                 <ul>
-                                <li>I can work at your office in case the location is not too far and YOU OFFER VERY ATTRACTIVE BENEFIT.</li>
+                                    <li>I will consider to work at your office in case the location is not too far and YOU OFFER VERY ATTRACTIVE BENEFIT.</li>
                                     <li>I can do full stack web and mobile as well. I prefer remote international jobs, minimum 40 hours weekly.</li>
                                     <li>I am able to develop Android/iOS apps at the same time using React Native to reduce 50% of your cost and time</li>
                                     <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
                                     <li>I had done many remote part-time projects for Singapore / US / S.Korea clients, so I am very trustworthy</li>
-                                    <li>I know how to make Smart Contract by Solidity/Truffle. I made my own crypto token and wallet to trade it.</li>
+                                    <li>I had done several projects:
+                                        <ul>
+                                            <li>ZELLAW: I made the crypto token and wallet preparing for ICO by Smart Contract in Solidity/Truffle</li>
+                                            <li><a href="https://wkacoin.com" target="_blank">https://wkacoin.com</a>: I deployed source code and relevant programs to AWS</li>
+                                            <li>EventPlant: an application written by React Native to scan QR code and retrieve data from server gateway</li>
+                                        </ul>
+                                    </li>
                                 </ul>
                         </article>
                     </div>
@@ -69,9 +75,10 @@
                                     <li>Manage/train/interview members including developers & testers to accomplish projects</li>
                                     <li>Research cutting edge techniques for all projects & improve productivity of team</li>
                                     <li>Design UML, write technical documentations</li>
-                                    <li>Deploy servers in production environment</li>
+                                    <li>Deploy server systems in production environment</li>
                                     <li>Develop cloud services and mobile apps</li>
                                     <li>Our clients are mainly from Japan, Singapore</li>
+                                    <li>Achievement: I built up development department from scratch up to 10 members, like a founder</li>
                                 </ul>
                             </p>
                         </article>
