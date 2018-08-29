@@ -103,7 +103,7 @@
                                 <p>
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
-                                    I am carrying 10 years of experience in IT field. Since last 2 years I was in position as Technical Manager at ENGMA company. I'm currently working in a blockchain project which going to launch an ICO in next year.
+                                    I am carrying 10 years of experience in IT field. Since last 2 years I was in position as Technical Manager at ENGMA company. I was technical manager so don't be surprised when see many roles that I took part in.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -379,7 +379,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">CEO / PMP</h3>
-                                                <p class="mb-0">I am going to establish my own IT company or to be a significant co-founder in certain project</p>
+                                                <p class="mb-0">I am going to establish my own IT company or be a significant co-founder in certain project</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
@@ -403,7 +403,7 @@
 
                                             <article class="g-pa-10--md">
                                                 <h3 class="h4 g-font-weight-300">Senior Blockchain Developer</h3>
-                                                <p class="mb-0">I am researching to do exciting projects involving blockchain fields</p>
+                                                <p class="mb-0">I am researching to do exciting things involving blockchain technique</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->
