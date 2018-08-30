@@ -145,14 +145,6 @@
                     </div>
                     <!-- End User Block -->
 
-                    <!-- Experience Timeline -->
-                    <?php require_once 'experience.php'; ?>
-                    <!-- End Experience Timeline -->
-
-                    <!-- Projects Panel -->
-                    <?php require_once 'projects.php'; ?>
-                    <!-- End Projects Panel -->
-
                     <!-- Education Timeline -->
                     <div class="card border-0 rounded-0">
                         <!-- Panel Header -->
@@ -223,6 +215,14 @@
                     </div>
                     <!-- End Education Timeline -->
 
+                    <!-- Experience Timeline -->
+                    <?php require_once 'experience.php'; ?>
+                    <!-- End Experience Timeline -->
+
+                    <!-- Projects Panel -->
+                    <?php require_once 'projects.php'; ?>
+                    <!-- End Projects Panel -->
+
                     <!-- Publications Panel -->
                     <?php require_once 'publication.php'; ?>
                     <!-- End Publications Panel -->
@@ -247,7 +247,7 @@
                                 <!-- Panel Body -->
                                 <div class="card-block u-info-v1-1 g-pa-0">
                                     <ul class="list-unstyled">
-                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / Scrum</li>
+                                        <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Agile / JIRA</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">Socket IO</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">AWS / Google Cloud</li>
                                         <li class="d-flex g-brd-bottom g-brd-gray-light-v4 g-py-10 g-px-15">PMP</li>
@@ -474,6 +474,8 @@
                     </div>
                     <!-- End User Skills -->
 
+                    <!-- download CV -->
+                    <div class="g-mt-20"><a href="/public/docs/DoThanhSang-Resume.pdf" target="_blank">Click here to download my CV in PDF <i class="fa fa-file-pdf-o"></i></a></div>
 
                 </div>
                 <!-- End Profle Content -->
