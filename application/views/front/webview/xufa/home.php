@@ -18,7 +18,7 @@
     <meta name="keywords" content="Martin SangDo Profile, mobile developer, blockchain developer, web full stack developer" />
     <meta name="description" content="Martin SangDo Profile, mobile developer, blockchain developer, web full stack developer" />
     <meta name="author" content="Martin SangDo"/>
-    <meta name="copyright" content="Copyright © 2018 by sangdoprofile.com"/>
+    <meta name="copyright" content="Copyright © 2020 by sangdoprofile.com"/>
     <!-- Favicon -->
     <link rel="shortcut icon" href="<?php echo PUBLIC_FOLDER;?>img/favicon.ico"/>
     <!-- Google Fonts -->
