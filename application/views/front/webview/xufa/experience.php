@@ -14,7 +14,38 @@
                 <div class="row">
                     <!-- Timeline Date -->
                     <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
-                        <h5 class="h6 g-font-weight-300 mb-0">02/2018 - Current</h5>
+                        <h4 class="h5 g-font-weight-300">Knorex Ltd.</h4>
+                        <h5 class="h6 g-font-weight-300 mb-0">09/2018 - Current</h5>
+                        <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
+                    </div>
+                    <!-- End Timeline Date -->
+
+                    <!-- Timeline Content -->
+                    <div class="col-md-9 align-self-center g-orientation-left g-pl-40--md">
+                        <!-- Timeline Dot -->
+                        <div class="g-hidden-sm-down u-timeline-v2__icon g-top-35">
+                            <i class="d-block g-width-18 g-height-18 g-bg-primary g-brd-around g-brd-4 g-brd-gray-light-v4 rounded-circle"></i>
+                        </div>
+                        <!-- End Timeline Dot -->
+
+                        <article class="g-pa-10--md">
+                            <h3 class="h4 g-font-weight-300">Senior Technical Manager</h3>
+                            <p class="mb-0">
+                                <ul>
+                                    <li>Leading projects integrating Google / Facebook Ads API into our online marketing system.</li>
+                                    <li>50% effort to manage team members, 50% of technical management</li>
+                                </ul>
+                            </p>
+                        </article>
+                    </div>
+                    <!-- End Timeline Content -->
+                </div>
+            </li>
+            <li class="col-md-12 g-brd-bottom g-brd-0--md g-brd-gray-light-v4 g-pb-30 g-pb-0--md g-mb-30 g-mb-0--md">
+                <div class="row">
+                    <!-- Timeline Date -->
+                    <div class="col-md-3 align-self-center text-md-right g-pr-40--md g-mb-20 g-mb-0--md">
+                        <h5 class="h6 g-font-weight-300 mb-0">02/2018 - 08/2018</h5>
                         <h6 class="h6 g-font-weight-300 mb-0">HCM, Vietnam</h6>
                     </div>
                     <!-- End Timeline Date -->
@@ -31,8 +62,7 @@
                             <h3 class="h4 g-font-weight-300">Full-time Freelancer</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>I will consider to work at your office in case the location is not too far and YOU OFFER VERY ATTRACTIVE BENEFIT.</li>
-                                    <li>I can do full stack web and mobile as well. I prefer remote international jobs, minimum 40 hours weekly.</li>
+                                    <li>I can do full stack web and mobile as well.</li>
                                     <li>I am able to develop Android/iOS apps at the same time using React Native to reduce 50% of your cost and time</li>
                                     <li>I can install whole production server, publish apps from scratch. You just give me requirements, I do all things!</li>
                                     <li>I had done many remote part-time projects for Singapore / US / S.Korea clients, so I am very trustworthy</li>
