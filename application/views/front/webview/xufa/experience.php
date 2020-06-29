@@ -32,7 +32,7 @@
                             <h3 class="h4 g-font-weight-300">Senior Technical Manager</h3>
                             <p class="mb-0">
                                 <ul>
-                                    <li>Leading projects integrating Google / Facebook Ads API into our online marketing system.</li>
+                                    <li>Leading projects integrating Google / Facebook / LinkedIn Ads API into our online marketing system.</li>
                                     <li>50% effort to manage team members, 50% of technical management</li>
                                 </ul>
                             </p>

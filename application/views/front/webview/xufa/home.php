@@ -91,9 +91,6 @@
                                         <i class="icon-location-pin g-pos-rel g-top-1 g-color-google-plus g-mr-5"></i> HoChiMinh city, Vietnam
                                     </li>
                                     <li class="list-inline-item g-mr-20">
-                                        <i class="icon-envelope g-pos-rel g-top-1 g-color-gray-dark-v5 g-mr-5"></i> <a class="g-color-primary--hover" href="mailto:dtsang012@yahoo.com?subject=Hello Sang, I reach you from the site">Click here to mail me!</a>
-                                    </li>
-                                    <li class="list-inline-item g-mr-20">
                                         <i class="icon-social-skype g-pos-rel g-top-1 g-color-aqua g-mr-5"></i> stl.sang.do
                                     </li>
                                 </ul>
@@ -103,7 +100,7 @@
                                 <p>
                                     My name is Sang, from HoChiMinh city, Vietnam. My highest qualification is Master of Engineering in Computer Science from Myongji University, South Korea.</p>
                                 <p>
-                                    I am carrying 10 years of experience in IT field. Since last 2 years I was in position as Technical Manager at ENGMA company. I was technical manager so don't be surprised when see many roles that I took part in.
+                                    I am carrying over 12 years of experience in IT field. Currently I am in position as Senior Technical Manager at Knorex company. I was technical manager so don't be surprised when see many roles that I took part in.
                                 </p>
 
                                 <hr class="g-brd-gray-light-v4 g-my-20">
@@ -114,9 +111,9 @@
                                     $skills = array(
                                          0 => array('value' => 90,'name' => 'PHP','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
                                          1 => array('value' => 90,'name' => 'Nodejs','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
-                                        2 => array('value' => 60,'name' => 'React Native','bg_color'=>'c9ff97', 'fg_color'=>'72c02c', 'exp'=>'2 yrs'),
+                                        2 => array('value' => 60,'name' => 'React Native','bg_color'=>'c9ff97', 'fg_color'=>'72c02c', 'exp'=>'4 yrs'),
                                         3 => array('value' => 70,'name' => 'Python','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'5 yrs'),
-                                        4 => array('value' => 60,'name' => 'C/C++','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
+                                        4 => array('value' => 60,'name' => 'Java','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'5 yrs'),
                                         5 => array('value' => 70,'name' => 'Android Java','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'5 yrs'),
                                         6 => array('value' => 80,'name' => 'SQL','bg_color'=>'bee3f7', 'fg_color'=>'3498db', 'exp'=>'10 yrs'),
                                         7 => array('value' => 90,'name' => 'jQuery','bg_color'=>'d3b6c6', 'fg_color'=>'9b6bcc', 'exp'=>'10 yrs'),
@@ -402,8 +399,8 @@
                                             <!-- End Timeline Dot -->
 
                                             <article class="g-pa-10--md">
-                                                <h3 class="h4 g-font-weight-300">Senior Blockchain Developer</h3>
-                                                <p class="mb-0">I am researching to do exciting things involving blockchain technique</p>
+                                                <h3 class="h4 g-font-weight-300">Senior Technical Manager</h3>
+                                                <p class="mb-0">Learning a lot of experience to run Social Marketing campaigns</p>
                                             </article>
                                         </div>
                                         <!-- End Timeline Content -->

@@ -2,7 +2,7 @@
     <!-- Panel Header -->
     <div class="card-header d-flex align-items-center justify-content-between g-bg-lightblue-v1 border-0 g-mb-15">
         <h3 class="h6 mb-0">
-            <i class="icon-globe g-pos-rel g-top-1 g-mr-5"></i> MY WEBSITES
+            <i class="icon-globe g-pos-rel g-top-1 g-mr-5"></i> MY SIDE WEBSITES
         </h3>
     </div>
     <!-- End Panel Header -->
@@ -13,7 +13,7 @@
         <div class="row">
             <!-- Timeline Date -->
             <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                <h5 class="h6 g-font-weight-700 mb-0">05/2018</h5>
+                <h5 class="h6 g-font-weight-700 mb-0">03/2020</h5>
                 <h4 class="h4 g-font-weight-300">Founder</h4>
             </div>
             <!-- End Timeline Date -->
@@ -37,10 +37,10 @@
                     <!-- End Timeline Arrow -->
 
                     <header class="g-brd-bottom g-brd-gray-light-v4 g-mb-10">
-                        <h5 class="g-font-weight-300"><a href="http://boardblockchain.com" target="_blank">http://boardblockchain.com <i class="icon-arrow-right-circle"></i></a></h5>
+                        <h5 class="g-font-weight-300"><a href="http://dinhduongdofarm.com" target="_blank">http://dinhduongdofarm.com <i class="icon-arrow-right-circle"></i></a></h5>
                     </header>
 
-                    <p class="mb-0">Collection of latest breaking news about blockchain activities, cryptocurrency tech over the world</p>
+                    <p class="mb-0">Ecommerce system selling imported nuts</p>
                 </article>
             </div>
             <!-- End Timeline Content -->
@@ -51,8 +51,8 @@
         <div class="row">
             <!-- Timeline Date -->
             <div class="col-md-3 text-md-right g-pt-20--md g-pr-40--md g-mb-20">
-                <h5 class="h6 g-font-weight-700 mb-0">03/2018</h5>
-                <h4 class="h4 g-font-weight-300">Founder</h4>
+                <h5 class="h6 g-font-weight-700 mb-0">09/2019</h5>
+                <h4 class="h4 g-font-weight-300">Founding team</h4>
             </div>
             <!-- End Timeline Date -->
 
@@ -75,10 +75,10 @@
                     <!-- End Timeline Arrow -->
 
                     <header class="g-brd-bottom g-brd-gray-light-v3 g-mb-10">
-                        <h5 class="g-font-weight-300"><a href="http://gamereviewnews.com" target="_blank">http://gamereviewnews.com <i class="icon-arrow-right-circle"></i></a></h5>
+                        <h5 class="g-font-weight-300"><a href="https://f5fruitshop.vn" target="_blank">https://f5fruitshop.vn <i class="icon-arrow-right-circle"></i></a></h5>
                     </header>
 
-                    <p class="mb-0">Collection of latest news about all kinds of PC games, Xbox, etc.</p>
+                    <p class="mb-0">Ecommerce system selling imported fruits</p>
                 </article>
             </div>
             <!-- End Timeline Content -->
